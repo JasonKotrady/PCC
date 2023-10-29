@@ -1324,3 +1324,1319 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.29-22.23.19:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
 [2023.10.29-22.23.19:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
 [2023.10.29-22.23.19:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.10.29-22.23.19:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.10.29-22.23.19:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.10.29-22.23.19:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.10.29-22.23.19:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.10.29-22.23.20:122][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:122][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:123][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:124][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:125][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:125][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:126][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:127][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:128][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:129][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:130][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:131][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:132][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:133][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:133][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:134][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:134][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:135][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:136][  0]LogPakFile: Initializing PakPlatformFile
+[2023.10.29-22.23.20:136][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.10.29-22.23.20:357][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.29-22.23.20:441][  0]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.077527 seconds
+[2023.10.29-22.23.20:448][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Advanced_Lighting_BuiltData
+[2023.10.29-22.23.20:448][  0]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/Advanced_Lighting_BuiltDataE8039354483A9619E5CC8D9E72C4EBC6.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset'
+[2023.10.29-22.23.20:451][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms
+[2023.10.29-22.23.20:451][  0]LogFeaturePack: Inserted 1 feature packs
+[2023.10.29-22.23.20:453][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.29-22.23.20:454][  0]LightingResults: New page: Lighting Build
+[2023.10.29-22.23.20:456][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.29-22.23.20:456][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.29-22.23.20:456][  0]MapCheck: New page: Map Check
+[2023.10.29-22.23.20:456][  0]LightingResults: New page: Lighting Build
+[2023.10.29-22.23.20:459][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.29-22.23.20:462][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.29-22.23.20:471][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.10.29-22.23.20:471][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.29-22.23.20:472][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.29-22.23.20:472][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.10.29-22.23.20:472][  0]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.10.29-22.23.20:472][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.29-22.23.20:472][  0]LogWorldPartition: UWorldPartition::Initialize : World = Untitled_1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.29-22.23.20:763][  0]LogContentBundle: [Untitled_1(Standalone)] Creating new contrainer.
+[2023.10.29-22.23.20:763][  0]LogWorldPartition: Display: WorldPartition initialize took 291 ms
+[2023.10.29-22.23.21:148][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.29-22.23.21:152][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.10.29-22.23.21:152][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.29-22.23.21:153][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.567ms to complete.
+[2023.10.29-22.23.21:161][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.096
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: ================================================
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.29-22.23.21:161][  0]LogShaderCompilers: Display: ================================================
+[2023.10.29-22.23.21:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.29-22.23.21:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.29-22.23.21:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.29-22.23.21:281][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.29-22.23.21:468][  0]LogSlate: Took 0.000897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.29-22.23.21:472][  0]LogSlate: Took 0.000728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.29-22.23.21:473][  0]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.29-22.23.21:497][  0]LogViewport: Scene viewport resized to 2032x1318, mode Windowed.
+[2023.10.29-22.23.22:459][  0]LogStall: Startup...
+[2023.10.29-22.23.22:461][  0]LogStall: Startup complete.
+[2023.10.29-22.23.22:497][  0]LogLoad: (Engine Initialization) Total time: 14.43 seconds
+[2023.10.29-22.23.22:497][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.10.29-22.23.22:607][  0]AssetCheck: New page: Asset Save: Advanced_Lighting_BuiltData
+[2023.10.29-22.23.22:607][  0]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/StarterContent/Maps/Advanced_Lighting_BuiltData.Advanced_Lighting_BuiltData
+[2023.10.29-22.23.22:611][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.10.29-22.23.22:631][  0]LogSlate: Took 0.000655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.29-22.23.22:661][  0]LogSlate: Took 0.000589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.29-22.23.22:805][  1]LogAutomationController: Ignoring very large delta of 17420726.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.29-22.23.22:850][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2023.10.29-22.23.22:858][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.051551 secs
+[2023.10.29-22.23.22:874][  1]LogAssetRegistry: AssetRegistryGather time 2.0596s: AssetDataDiscovery 0.2198s, AssetDataGather 1.7883s, StoreResults 0.0515s.
+[2023.10.29-22.23.22:888][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.10.29-22.23.23:251][  2]LogD3D12RHI: Cannot end block when stack is empty
+[2023.10.29-22.23.32:295][499]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.29-22.23.32:422][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.29-22.23.41:024][510]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.29-22.23.41:397][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MathGame" FILE="../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.29-22.23.41:428][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.10.29-22.23.41:457][510]LogSavePackage: Moving output files for package: /Game/MathGame
+[2023.10.29-22.23.41:457][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/MathGameA8A32BC4487101612EB1F8A597A22F3F.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGame.umap'
+[2023.10.29-22.23.41:513][510]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/MathGame_HLOD0_Instancing
+/Game/__ExternalActors__/MathGame/5/2C/TJ3FOIJ8UP4VU6JHL1PL0U
+/Game/__ExternalObjects__/MathGame/8/13/E07LCH0M99M1G4J91S5HWK
+/Game/__ExternalObjects__/MathGame/D/H5/02UDM4FYWD99IXD2LHAHDU
+/Game/__ExternalObjects__/MathGame/E/Q2/AUPY587GKPME5RE0EZ6ZHD
+/Game/__ExternalObjects__/MathGame/E/FO/KEKQWPLZTSDIT8E1AQKB6V
+/Game/__ExternalObjects__/MathGame/3/5U/COYIJJKQBN7SG1HPV4242E
+/Game/__ExternalObjects__/MathGame/A/77/1NOSO30F1WTTIKH8G454OJ
+/Game/__ExternalActors__/MathGame/B/CC/PGXCINBYZN91V0EA5PXEMG
+/Game/__ExternalActors__/MathGame/4/MG/QVKZB8Z9HJ8EBN9A7HYIHI
+/Game/__ExternalActors__/MathGame/6/ZA/Y5X7P5FO5HZXYY4XVO3PYX
+/Game/__ExternalActors__/MathGame/6/P3/CQ6IEYCKEC36S32OYGCN8R
+/Game/__ExternalActors__/MathGame/8/GY/IQ3TJ407MS3DX4W28UMGZW
+/Game/__ExternalActors__/MathGame/C/Z0/YNZE4XLT69RYSMFGNNRQL0
+/Game/__ExternalActors__/MathGame/7/A5/3OV9MI3UPIB46TP9P2D2YA
+/Game/__ExternalActors__/MathGame/C/2Y/5W0R57VTE7U61L8HJOYUHP
+/Game/__ExternalActors__/MathGame/8/P0/7GEVMCP8YJV972OFT364VN
+/Game/__ExternalActors__/MathGame/3/C1/JWZXK7G471VHHF5TI77OKN
+/Game/__ExternalActors__/MathGame/A/HP/4YRAFN928ZB1NZOZ85F4XY
+/Game/__ExternalActors__/MathGame/9/AY/Q66I5Q8QY6ZDIFOG1SEIE5
+/Game/__ExternalActors__/MathGame/1/JF/4S2KY41ETMQ2PMBA6Y0FU1
+/Game/__ExternalActors__/MathGame/D/HO/DQNHTJMUYTCG5YNCY0UOW3
+/Game/__ExternalActors__/MathGame/4/3S/EN9P5SGZE7RWJUH1W32RKT
+/Game/__ExternalActors__/MathGame/2/WS/ZUBULYD8D0B1FW4NS296AS
+/Game/__ExternalActors__/MathGame/D/9H/SYDU7NOJZD2V4BLK7P6KOQ
+/Game/__ExternalActors__/MathGame/5/YQ/S5LUXWMT79MFXBP45YARVX
+/Game/__ExternalActors__/MathGame/4/8W/A7NEUEGOFHQAQGCNNXHC34
+/Game/__ExternalActors__/MathGame/6/PL/21V31IGZN7NQLWGIF029HL
+/Game/__ExternalActors__/MathGame/A/Z0/XY69QHFQO9M4JNQOHHZIBJ
+/Game/__ExternalActors__/MathGame/A/3E/RY176Y1C90Y3GK8M5NZ12X
+/Game/__ExternalActors__/MathGame/2/2S/A5CQ5QN40U5SEWDHKQFB79
+/Game/__ExternalActors__/MathGame/E/XL/F33TFFAI9MYX79ZGA11JSJ
+/Game/__ExternalActors__/MathGame/2/GD/9WX2RYRPG8G988NZQLPZGR
+/Game/__ExternalActors__/MathGame/5/4O/OGB83SD468SLVKFWQP15KJ
+/Game/__ExternalActors__/MathGame/B/27/5AU22N32PI74WB71OG432M
+/Game/__ExternalActors__/MathGame/A/XF/1IV6UJY6KB940SCK5BSJZP
+/Game/__ExternalActors__/MathGame/E/SO/I54PL8W3WRDOK8FYMKBRPD
+/Game/__ExternalActors__/MathGame/0/ZF/LDHVTQC2FS7A5PCOT80IH1
+/Game/__ExternalActors__/MathGame/C/SW/V46HPABG724H4XWD9CLMII
+/Game/__ExternalActors__/MathGame/4/YS/GINNL8OU79XCP7VF3WJ1O9
+/Game/__ExternalActors__/MathGame/2/UD/RJM2FBI514CT3SHV5QJI97
+/Game/__ExternalActors__/MathGame/D/QD/EHPCJEICQKD42B5ISYRETZ
+/Game/__ExternalActors__/MathGame/0/H1/CKGI136PMGH5AZFYP1NHPX
+/Game/__ExternalActors__/MathGame/2/QJ/BIY5H3D8R37QFIEFSL2PPU
+/Game/__ExternalActors__/MathGame/C/1A/MB94YB7RV31M380YHG7O5B
+/Game/__ExternalActors__/MathGame/B/EP/OXGAYPQ2LMQYIZZ8TLXYAA
+/Game/__ExternalActors__/MathGame/E/GK/K5L1OS3WN1O85JWY64CGOR
+/Game/__ExternalActors__/MathGame/8/KB/JHX8OQSFT3AUDDKOJT9SBN
+/Game/__ExternalActors__/MathGame/2/35/ATI1A6I5KYI2V13892IOC4
+/Game/__ExternalActors__/MathGame/7/EU/2NE91H191RILAQL2SILHBY
+/Game/__ExternalActors__/MathGame/4/HZ/OXS83NTHCTOX7BZ19GFKE0
+/Game/__ExternalActors__/MathGame/0/4C/T412120F2AE0WAV3K9ZLBK
+/Game/__ExternalActors__/MathGame/D/YH/D689T6117KXE4GN0VIGVDB
+/Game/__ExternalActors__/MathGame/A/SQ/K3VI4TUTCIQ6P4Q1Q0NJFT
+/Game/__ExternalActors__/MathGame/B/GM/KUZ0SBPIEWDZA8S1I5XWV9
+/Game/__ExternalActors__/MathGame/C/7S/9ZR6WF2RM3ZYO60RRQ59UL
+/Game/__ExternalActors__/MathGame/7/AG/GVZD9KNORKVMB4GCTF4RW3
+/Game/__ExternalActors__/MathGame/2/8L/8G7PR37PTBIIXEERD7S46I
+/Game/__ExternalActors__/MathGame/4/GR/0ZVMHWUA5UMF0JEK5VD0OL
+/Game/__ExternalActors__/MathGame/D/QJ/HQAXMC5HAMOZC63FYHV4RF
+/Game/__ExternalActors__/MathGame/6/MU/TY2ZRHEJWEXP3CZY7XVPEO
+/Game/__ExternalActors__/MathGame/4/F8/RWIR9INENDAS0M00MARA6Q
+/Game/__ExternalActors__/MathGame/A/XQ/56HM8T4OX8UP08V7A38NWQ
+/Game/__ExternalActors__/MathGame/A/04/HQSLHXL5DAD9LUJC4HF0VC
+/Game/__ExternalActors__/MathGame/E/GS/CZB4LJD0J9VP1N3JP3EJI5
+/Game/__ExternalActors__/MathGame/5/3M/TCBARE810JYK4CM8WTM0Q1
+/Game/__ExternalActors__/MathGame/0/M0/XOWXCJNNYQGL95YS1LWRTU
+/Game/__ExternalActors__/MathGame/9/ZM/X50CD0ANMPW2EMIP4DDAHU
+/Game/__ExternalActors__/MathGame/9/6M/36CVQTZC7A3IBUHCS2M4G6
+/Game/__ExternalActors__/MathGame/3/G8/AB778UQ8SA26VCHQW43AA3
+/Game/__ExternalActors__/MathGame/5/JX/UMW2M8U5OJ8YQDGVMZGJRS
+/Game/__ExternalActors__/MathGame/5/GP/FO1RZVH2EJWC9YVBDR9PKY
+/Game/__ExternalActors__/MathGame/B/QM/9BGU8SZM7WXQMFRXRSHDGP
+/Game/__ExternalActors__/MathGame/D/NL/ON58SDVSGF0MIHTTOJ27UX
+/Game/__ExternalActors__/MathGame/3/GM/4AGHJMM8RCTZRRJG4N4OJW
+/Game/__ExternalActors__/MathGame/D/BH/86FIRYB5RDIKOCBTDLXZK3
+/Game/__ExternalActors__/MathGame/3/WH/AI3NI9B2YWMBPRDQQ5CJGU
+/Game/__ExternalActors__/MathGame/0/ZA/CL947NSGEHBC0IRIWK6CE9
+/Game/__ExternalActors__/MathGame/8/CT/YJJ4QAQ921EKBB2N81EVMT
+/Game/__ExternalActors__/MathGame/8/8D/8VTCECJ3DNEZ697GXYKKMQ
+/Game/__ExternalActors__/MathGame/9/Q4/7JRNRRB3YEVVIRUC3UEBVO
+/Game/__ExternalActors__/MathGame/7/3V/PI4R4HGUZZVS9E155QIA38
+/Game/__ExternalActors__/MathGame/3/9D/NCWTLIK1ANNLJ9WWCKVPXZ
+/Game/__ExternalActors__/MathGame/0/5N/XVYZTH8R95WMIQAIC8WOK2
+/Game/__ExternalActors__/MathGame/5/GO/3EBS45BZ2IZ1L0MOO3ZW04
+/Game/__ExternalActors__/MathGame/3/4N/1ZW23XVC0UR53K7G3J9LV9
+/Game/__ExternalActors__/MathGame/3/QR/VH766S8DYZJK8ESZO1OQ5P
+/Game/__ExternalActors__/MathGame/C/X3/Q838US5RQOPE6YBRSCKRBR
+/Game/__ExternalActors__/MathGame/E/VI/O8NPSX8M3AT8OZLXQH41GB
+/Game/__ExternalActors__/MathGame/0/X2/FXBM2PFJTJMFW9RO806OFY
+/Game/__ExternalActors__/MathGame/3/ME/Q26ECDM2JSPY9GNYKXSFIG
+/Game/__ExternalActors__/MathGame/5/QH/GL7T6GQTAR87ZM7XAHOVH1
+/Game/__ExternalActors__/MathGame/4/0Y/E4C43WAH8JIDTUG7OPVAAW
+/Game/__ExternalActors__/MathGame/9/VE/WKTS54CG9ND9LPUA2PVYLR
+/Game/__ExternalActors__/MathGame/A/0L/2WO78PY2ML1H7L2SSG306S
+/Game/__ExternalActors__/MathGame/A/WF/R739OB0W34JR975CDC7M6P
+/Game/__ExternalActors__/MathGame/9/33/LU8KQH2LCPWZMCDZ7V7K4B
+/Game/__ExternalActors__/MathGame/F/0L/WR53O3GLRI92FAWNVU5JZV
+/Game/__ExternalActors__/MathGame/5/W0/VW1GGI0N5COOJ58C6J3SVV
+/Game/__ExternalActors__/MathGame/9/1P/FPJY8QFGLWQBLPDBT0POUK
+/Game/__ExternalActors__/MathGame/E/DI/GIGRU12514TSP3RY7Q7ZKG
+/Game/__ExternalActors__/MathGame/5/41/ZHHNA8AFTPIGKV5VTD50H0
+/Game/__ExternalActors__/MathGame/2/OT/XOGRAAW0WE1FPIDWT83XM8
+/Game/__ExternalActors__/MathGame/5/0K/9K6FF05QIVF0AC9KKWLASE
+/Game/__ExternalActors__/MathGame/9/TD/0DLT66WS0HQLBEGFDVKAQ4
+/Game/__ExternalActors__/MathGame/9/1G/LFIRQEOX9ZT3U42BI98EUV
+/Game/__ExternalActors__/MathGame/0/DJ/2CWBUN20R3KEEAZEREQM8B
+/Game/__ExternalActors__/MathGame/0/2T/T85D4093G3QI5OAUJS8IOR
+/Game/__ExternalActors__/MathGame/D/IW/L6RW9K6O7DWYY07Y3DF09O
+/Game/__ExternalActors__/MathGame/6/F6/YPB62P6774TAT9QQEK6730
+/Game/__ExternalActors__/MathGame/C/5M/GMTJQI2SX8F9WZZ86W2DNS
+/Game/__ExternalActors__/MathGame/0/CM/6HN0X2KDHI3LGB9GG4MNUH
+/Game/__ExternalActors__/MathGame/3/N0/QNGL5580YEH22PLDQWB9MK
+/Game/__ExternalActors__/MathGame/E/P5/0UHCLJG667WDP8C4KW1AEI
+/Game/__ExternalActors__/MathGame/C/DN/L4ZR0UA79Y5JTXWJMOG75M
+/Game/__ExternalActors__/MathGame/D/D8/TBDXBTQ14MNU9VG4OVK7LU
+/Game/__ExternalActors__/MathGame/7/R0/OPSX1BU63M8S3VDKD83E18
+/Game/__ExternalActors__/MathGame/D/N2/KXHRXQ4SU7BO2M9H3GLXFO
+/Game/__ExternalActors__/MathGame/2/MV/NNPRMM6BP2JAI400F9WXQ8
+/Game/__ExternalActors__/MathGame/5/M7/6JUSLMR4JB46AKA51N9SQN
+/Game/__ExternalActors__/MathGame/5/RI/LDIPH156JW481W4IGFSHKT
+/Game/__ExternalActors__/MathGame/8/7A/Y1MVBI8MHFKWNPHD5AQ2XS
+/Game/__ExternalActors__/MathGame/0/2T/Q0CIMB2QKEF0X7UM7EJKWB
+/Game/__ExternalActors__/MathGame/C/12/ST55QBP2BGE9W270D5NCV8
+/Game/__ExternalActors__/MathGame/4/7H/C3D3ER26WE5CESCGOTIRZY
+/Game/__ExternalActors__/MathGame/8/L5/4BZP3NFUNWA76DZDSIJ803
+/Game/__ExternalActors__/MathGame/8/XU/CFTBGSGZUIX99FRQWT32KS
+/Game/__ExternalActors__/MathGame/4/3Q/KM52HTDLY7H9TVAF4LRPZV
+/Game/__ExternalActors__/MathGame/D/67/9OXV40SVT2VEY93MZ6FFWL
+/Game/__ExternalActors__/MathGame/8/XS/41W6WB299192PFVDGB1C9F
+[2023.10.29-22.23.41:514][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.29-22.23.41:514][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MathGame_HLOD0_Instancing" FILE="../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGame_HLOD0_Instancing.uasset" SILENT=true
+[2023.10.29-22.23.41:518][510]LogSavePackage: Moving output files for package: /Game/MathGame_HLOD0_Instancing
+[2023.10.29-22.23.41:518][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/MathGame_HLOD0_Instancing9919ACEA4BC07CBD023377BA9A4A8928.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGame_HLOD0_Instancing.uasset'
+[2023.10.29-22.23.41:524][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/2C/TJ3FOIJ8UP4VU6JHL1PL0U
+[2023.10.29-22.23.41:524][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/TJ3FOIJ8UP4VU6JHL1PL0UF17DD7A94E98371265AFCABE6CDD24EC.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/2C/TJ3FOIJ8UP4VU6JHL1PL0U.uasset'
+[2023.10.29-22.23.41:531][510]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MathGame/8/13/E07LCH0M99M1G4J91S5HWK
+[2023.10.29-22.23.41:531][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/E07LCH0M99M1G4J91S5HWKFC50D048419CB797A7FF1590C06514E2.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalObjects__/MathGame/8/13/E07LCH0M99M1G4J91S5HWK.uasset'
+[2023.10.29-22.23.41:537][510]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MathGame/D/H5/02UDM4FYWD99IXD2LHAHDU
+[2023.10.29-22.23.41:537][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/02UDM4FYWD99IXD2LHAHDUDDEA0FFE4A061F8EBC524FA3943FCCF2.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalObjects__/MathGame/D/H5/02UDM4FYWD99IXD2LHAHDU.uasset'
+[2023.10.29-22.23.41:543][510]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MathGame/E/Q2/AUPY587GKPME5RE0EZ6ZHD
+[2023.10.29-22.23.41:543][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/AUPY587GKPME5RE0EZ6ZHDBDA9D2954BCCB0DA68A2B881BC439DC1.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalObjects__/MathGame/E/Q2/AUPY587GKPME5RE0EZ6ZHD.uasset'
+[2023.10.29-22.23.41:549][510]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MathGame/E/FO/KEKQWPLZTSDIT8E1AQKB6V
+[2023.10.29-22.23.41:550][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/KEKQWPLZTSDIT8E1AQKB6VBB56156A47944DF7CB10AE9D454EB619.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalObjects__/MathGame/E/FO/KEKQWPLZTSDIT8E1AQKB6V.uasset'
+[2023.10.29-22.23.41:555][510]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MathGame/3/5U/COYIJJKQBN7SG1HPV4242E
+[2023.10.29-22.23.41:555][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/COYIJJKQBN7SG1HPV4242EE25F27C1455BAB9EF3F86A8AB15E7AAF.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalObjects__/MathGame/3/5U/COYIJJKQBN7SG1HPV4242E.uasset'
+[2023.10.29-22.23.41:562][510]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/MathGame/A/77/1NOSO30F1WTTIKH8G454OJ
+[2023.10.29-22.23.41:562][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/1NOSO30F1WTTIKH8G454OJ0AF703814C2FB121D2F298ADB408B80F.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalObjects__/MathGame/A/77/1NOSO30F1WTTIKH8G454OJ.uasset'
+[2023.10.29-22.23.41:574][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/B/CC/PGXCINBYZN91V0EA5PXEMG
+[2023.10.29-22.23.41:574][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/PGXCINBYZN91V0EA5PXEMG5AFE186C4D0896A4A506BFABDE6C1E1E.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/B/CC/PGXCINBYZN91V0EA5PXEMG.uasset'
+[2023.10.29-22.23.41:584][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/MG/QVKZB8Z9HJ8EBN9A7HYIHI
+[2023.10.29-22.23.41:584][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/QVKZB8Z9HJ8EBN9A7HYIHIFAA6407741D40D6B27F345B0634425E2.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/MG/QVKZB8Z9HJ8EBN9A7HYIHI.uasset'
+[2023.10.29-22.23.41:590][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/6/ZA/Y5X7P5FO5HZXYY4XVO3PYX
+[2023.10.29-22.23.41:590][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/Y5X7P5FO5HZXYY4XVO3PYXB4CDCACA45E95FCE7028D4972888AB41.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/6/ZA/Y5X7P5FO5HZXYY4XVO3PYX.uasset'
+[2023.10.29-22.23.41:596][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/6/P3/CQ6IEYCKEC36S32OYGCN8R
+[2023.10.29-22.23.41:596][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/CQ6IEYCKEC36S32OYGCN8R5C7F9BEC4B057749B8A15C9E0287A7C3.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/6/P3/CQ6IEYCKEC36S32OYGCN8R.uasset'
+[2023.10.29-22.23.41:601][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/GY/IQ3TJ407MS3DX4W28UMGZW
+[2023.10.29-22.23.41:602][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/IQ3TJ407MS3DX4W28UMGZWC37246B24214CCC5F0E0DEB3766B840C.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/GY/IQ3TJ407MS3DX4W28UMGZW.uasset'
+[2023.10.29-22.23.41:611][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/Z0/YNZE4XLT69RYSMFGNNRQL0
+[2023.10.29-22.23.41:611][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/YNZE4XLT69RYSMFGNNRQL0277D00D54CB68DE787FC589A36FD4D43.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/Z0/YNZE4XLT69RYSMFGNNRQL0.uasset'
+[2023.10.29-22.23.41:617][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/7/A5/3OV9MI3UPIB46TP9P2D2YA
+[2023.10.29-22.23.41:617][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/3OV9MI3UPIB46TP9P2D2YA42B2104C4E1F288F264484A13F314FE7.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/7/A5/3OV9MI3UPIB46TP9P2D2YA.uasset'
+[2023.10.29-22.23.41:625][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/2Y/5W0R57VTE7U61L8HJOYUHP
+[2023.10.29-22.23.41:625][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/5W0R57VTE7U61L8HJOYUHP25CA417947728744631A22A62DD38582.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/2Y/5W0R57VTE7U61L8HJOYUHP.uasset'
+[2023.10.29-22.23.41:633][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/P0/7GEVMCP8YJV972OFT364VN
+[2023.10.29-22.23.41:633][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/7GEVMCP8YJV972OFT364VN40FBEB174D9EB277EC68CF93A2B323D1.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/P0/7GEVMCP8YJV972OFT364VN.uasset'
+[2023.10.29-22.23.41:654][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/C1/JWZXK7G471VHHF5TI77OKN
+[2023.10.29-22.23.41:654][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/JWZXK7G471VHHF5TI77OKNF5F8CE6E4F4A7D7360D87B8E3CFB5E47.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/C1/JWZXK7G471VHHF5TI77OKN.uasset'
+[2023.10.29-22.23.41:678][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/HP/4YRAFN928ZB1NZOZ85F4XY
+[2023.10.29-22.23.41:678][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/4YRAFN928ZB1NZOZ85F4XY844F0F5D4336034A62E420ADF57DF687.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/HP/4YRAFN928ZB1NZOZ85F4XY.uasset'
+[2023.10.29-22.23.41:698][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/AY/Q66I5Q8QY6ZDIFOG1SEIE5
+[2023.10.29-22.23.41:698][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/Q66I5Q8QY6ZDIFOG1SEIE53D6AE64D48F512A4BD227E86FA1C067B.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/AY/Q66I5Q8QY6ZDIFOG1SEIE5.uasset'
+[2023.10.29-22.23.41:736][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/1/JF/4S2KY41ETMQ2PMBA6Y0FU1
+[2023.10.29-22.23.41:736][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/4S2KY41ETMQ2PMBA6Y0FU1B18AE7524EF78B49233F0ABADB45251B.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/1/JF/4S2KY41ETMQ2PMBA6Y0FU1.uasset'
+[2023.10.29-22.23.41:755][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/HO/DQNHTJMUYTCG5YNCY0UOW3
+[2023.10.29-22.23.41:755][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/DQNHTJMUYTCG5YNCY0UOW37F70D72947D134E4B246CA9157B86991.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/HO/DQNHTJMUYTCG5YNCY0UOW3.uasset'
+[2023.10.29-22.23.41:773][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/3S/EN9P5SGZE7RWJUH1W32RKT
+[2023.10.29-22.23.41:773][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/EN9P5SGZE7RWJUH1W32RKTB59657DC46B154861C1C1DA2EC8DFE3C.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/3S/EN9P5SGZE7RWJUH1W32RKT.uasset'
+[2023.10.29-22.23.41:791][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/WS/ZUBULYD8D0B1FW4NS296AS
+[2023.10.29-22.23.41:791][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/ZUBULYD8D0B1FW4NS296ASA8DCBBE34CB3413758D74FA4A383736E.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/WS/ZUBULYD8D0B1FW4NS296AS.uasset'
+[2023.10.29-22.23.41:810][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/9H/SYDU7NOJZD2V4BLK7P6KOQ
+[2023.10.29-22.23.41:810][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/SYDU7NOJZD2V4BLK7P6KOQD8C5414A478744B5BC65348AF07182D2.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/9H/SYDU7NOJZD2V4BLK7P6KOQ.uasset'
+[2023.10.29-22.23.41:826][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/YQ/S5LUXWMT79MFXBP45YARVX
+[2023.10.29-22.23.41:826][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/S5LUXWMT79MFXBP45YARVX49197E4542D927A806298E8D2913C771.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/YQ/S5LUXWMT79MFXBP45YARVX.uasset'
+[2023.10.29-22.23.41:849][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/8W/A7NEUEGOFHQAQGCNNXHC34
+[2023.10.29-22.23.41:849][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/A7NEUEGOFHQAQGCNNXHC343CA815CC4D34D75C42D38EB466C8F3FA.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/8W/A7NEUEGOFHQAQGCNNXHC34.uasset'
+[2023.10.29-22.23.41:867][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/6/PL/21V31IGZN7NQLWGIF029HL
+[2023.10.29-22.23.41:867][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/21V31IGZN7NQLWGIF029HLE5619D884C43DB29152229A745FEDB91.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/6/PL/21V31IGZN7NQLWGIF029HL.uasset'
+[2023.10.29-22.23.41:893][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/Z0/XY69QHFQO9M4JNQOHHZIBJ
+[2023.10.29-22.23.41:893][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/XY69QHFQO9M4JNQOHHZIBJC69976E249A6054F09CC2D829F279DE1.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/Z0/XY69QHFQO9M4JNQOHHZIBJ.uasset'
+[2023.10.29-22.23.41:911][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/3E/RY176Y1C90Y3GK8M5NZ12X
+[2023.10.29-22.23.41:911][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/RY176Y1C90Y3GK8M5NZ12XBFD0523C4173175F9325A592AA246DC1.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/3E/RY176Y1C90Y3GK8M5NZ12X.uasset'
+[2023.10.29-22.23.41:927][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/2S/A5CQ5QN40U5SEWDHKQFB79
+[2023.10.29-22.23.41:927][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/A5CQ5QN40U5SEWDHKQFB79294D1DF64F39FF63A6D8EA8FC8CE8CB3.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/2S/A5CQ5QN40U5SEWDHKQFB79.uasset'
+[2023.10.29-22.23.41:945][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/E/XL/F33TFFAI9MYX79ZGA11JSJ
+[2023.10.29-22.23.41:945][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/F33TFFAI9MYX79ZGA11JSJBD9AA5BF44D822050F96BD91DDA3DF2A.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/E/XL/F33TFFAI9MYX79ZGA11JSJ.uasset'
+[2023.10.29-22.23.41:966][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/GD/9WX2RYRPG8G988NZQLPZGR
+[2023.10.29-22.23.41:966][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/9WX2RYRPG8G988NZQLPZGRB9337D584A0A96D110E4838BE28352ED.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/GD/9WX2RYRPG8G988NZQLPZGR.uasset'
+[2023.10.29-22.23.41:987][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/4O/OGB83SD468SLVKFWQP15KJ
+[2023.10.29-22.23.41:987][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/OGB83SD468SLVKFWQP15KJ4D12929C454057CB38DE03A62054AFDA.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/4O/OGB83SD468SLVKFWQP15KJ.uasset'
+[2023.10.29-22.23.42:004][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/B/27/5AU22N32PI74WB71OG432M
+[2023.10.29-22.23.42:004][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/5AU22N32PI74WB71OG432MCF4955D44F68F246389E94BDECDD8CF1.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/B/27/5AU22N32PI74WB71OG432M.uasset'
+[2023.10.29-22.23.42:020][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/XF/1IV6UJY6KB940SCK5BSJZP
+[2023.10.29-22.23.42:020][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/1IV6UJY6KB940SCK5BSJZPEC95B9A2411404D12F4934898071FD54.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/XF/1IV6UJY6KB940SCK5BSJZP.uasset'
+[2023.10.29-22.23.42:036][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/E/SO/I54PL8W3WRDOK8FYMKBRPD
+[2023.10.29-22.23.42:036][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/I54PL8W3WRDOK8FYMKBRPD7A03F0A54956EE381E1A01AC893B33BD.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/E/SO/I54PL8W3WRDOK8FYMKBRPD.uasset'
+[2023.10.29-22.23.42:051][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/ZF/LDHVTQC2FS7A5PCOT80IH1
+[2023.10.29-22.23.42:052][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/LDHVTQC2FS7A5PCOT80IH1CA2FC8614834C856DB93F691B69F55DF.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/ZF/LDHVTQC2FS7A5PCOT80IH1.uasset'
+[2023.10.29-22.23.42:068][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/SW/V46HPABG724H4XWD9CLMII
+[2023.10.29-22.23.42:068][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/V46HPABG724H4XWD9CLMIIAC78BEE54FCF66087A1DEC9A75AB1652.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/SW/V46HPABG724H4XWD9CLMII.uasset'
+[2023.10.29-22.23.42:085][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/YS/GINNL8OU79XCP7VF3WJ1O9
+[2023.10.29-22.23.42:085][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/GINNL8OU79XCP7VF3WJ1O9661D6EC644FAA373819A0EBB00D00069.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/YS/GINNL8OU79XCP7VF3WJ1O9.uasset'
+[2023.10.29-22.23.42:109][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/UD/RJM2FBI514CT3SHV5QJI97
+[2023.10.29-22.23.42:109][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/RJM2FBI514CT3SHV5QJI97675281414348B8B23AE2668FA78E2BF8.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/UD/RJM2FBI514CT3SHV5QJI97.uasset'
+[2023.10.29-22.23.42:128][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/QD/EHPCJEICQKD42B5ISYRETZ
+[2023.10.29-22.23.42:128][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/EHPCJEICQKD42B5ISYRETZ3B08699F4849550FB71D35B44B17E767.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/QD/EHPCJEICQKD42B5ISYRETZ.uasset'
+[2023.10.29-22.23.42:144][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/H1/CKGI136PMGH5AZFYP1NHPX
+[2023.10.29-22.23.42:144][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/CKGI136PMGH5AZFYP1NHPX5F7410904B5340F848D562B1AA40E985.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/H1/CKGI136PMGH5AZFYP1NHPX.uasset'
+[2023.10.29-22.23.42:166][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/QJ/BIY5H3D8R37QFIEFSL2PPU
+[2023.10.29-22.23.42:166][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/BIY5H3D8R37QFIEFSL2PPU1CEA648343E1424E4887C59F26C2A2D5.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/QJ/BIY5H3D8R37QFIEFSL2PPU.uasset'
+[2023.10.29-22.23.42:183][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/1A/MB94YB7RV31M380YHG7O5B
+[2023.10.29-22.23.42:183][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/MB94YB7RV31M380YHG7O5B670A5B20437A525AE325FEB1EBDF6817.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/1A/MB94YB7RV31M380YHG7O5B.uasset'
+[2023.10.29-22.23.42:197][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/B/EP/OXGAYPQ2LMQYIZZ8TLXYAA
+[2023.10.29-22.23.42:197][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/OXGAYPQ2LMQYIZZ8TLXYAAA24F95CB4BD8FADAEF23AD85AF7B941E.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/B/EP/OXGAYPQ2LMQYIZZ8TLXYAA.uasset'
+[2023.10.29-22.23.42:213][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/E/GK/K5L1OS3WN1O85JWY64CGOR
+[2023.10.29-22.23.42:213][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/K5L1OS3WN1O85JWY64CGOR18F5DA004DF96F28FAEFB5AE8311C6AE.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/E/GK/K5L1OS3WN1O85JWY64CGOR.uasset'
+[2023.10.29-22.23.42:228][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/KB/JHX8OQSFT3AUDDKOJT9SBN
+[2023.10.29-22.23.42:228][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/JHX8OQSFT3AUDDKOJT9SBNC46F81BC4BF2E9E29C6FCCA788765F04.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/KB/JHX8OQSFT3AUDDKOJT9SBN.uasset'
+[2023.10.29-22.23.42:244][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/35/ATI1A6I5KYI2V13892IOC4
+[2023.10.29-22.23.42:244][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/ATI1A6I5KYI2V13892IOC4AD2A550F484F784DC0D25ABD1D927D41.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/35/ATI1A6I5KYI2V13892IOC4.uasset'
+[2023.10.29-22.23.42:258][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/7/EU/2NE91H191RILAQL2SILHBY
+[2023.10.29-22.23.42:258][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/2NE91H191RILAQL2SILHBYC2285C244E2B30679051A8BB115B600F.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/7/EU/2NE91H191RILAQL2SILHBY.uasset'
+[2023.10.29-22.23.42:280][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/HZ/OXS83NTHCTOX7BZ19GFKE0
+[2023.10.29-22.23.42:280][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/OXS83NTHCTOX7BZ19GFKE088640DE249FF93807B33F595458791AD.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/HZ/OXS83NTHCTOX7BZ19GFKE0.uasset'
+[2023.10.29-22.23.42:296][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/4C/T412120F2AE0WAV3K9ZLBK
+[2023.10.29-22.23.42:296][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/T412120F2AE0WAV3K9ZLBK7257925143196264A1C198B2041A17E5.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/4C/T412120F2AE0WAV3K9ZLBK.uasset'
+[2023.10.29-22.23.42:311][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/YH/D689T6117KXE4GN0VIGVDB
+[2023.10.29-22.23.42:311][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/D689T6117KXE4GN0VIGVDBE72857064926FB45AEDE9DAE3DCFCC74.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/YH/D689T6117KXE4GN0VIGVDB.uasset'
+[2023.10.29-22.23.42:327][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/SQ/K3VI4TUTCIQ6P4Q1Q0NJFT
+[2023.10.29-22.23.42:327][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/K3VI4TUTCIQ6P4Q1Q0NJFTD85525BA4A7C64C8CEC758A5A7F1CF61.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/SQ/K3VI4TUTCIQ6P4Q1Q0NJFT.uasset'
+[2023.10.29-22.23.42:344][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/B/GM/KUZ0SBPIEWDZA8S1I5XWV9
+[2023.10.29-22.23.42:344][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/KUZ0SBPIEWDZA8S1I5XWV9D72AE90A406ADF63B6AC80B33359DB0D.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/B/GM/KUZ0SBPIEWDZA8S1I5XWV9.uasset'
+[2023.10.29-22.23.42:358][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/7S/9ZR6WF2RM3ZYO60RRQ59UL
+[2023.10.29-22.23.42:358][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/9ZR6WF2RM3ZYO60RRQ59UL7096161A43AB2DB8B1FF248FED33C657.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/7S/9ZR6WF2RM3ZYO60RRQ59UL.uasset'
+[2023.10.29-22.23.42:374][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/7/AG/GVZD9KNORKVMB4GCTF4RW3
+[2023.10.29-22.23.42:374][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/GVZD9KNORKVMB4GCTF4RW33B333F884971158E8EFBDBB7EA558897.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/7/AG/GVZD9KNORKVMB4GCTF4RW3.uasset'
+[2023.10.29-22.23.42:392][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/8L/8G7PR37PTBIIXEERD7S46I
+[2023.10.29-22.23.42:392][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/8G7PR37PTBIIXEERD7S46I99873D62492165A942A5AA914A3A8413.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/8L/8G7PR37PTBIIXEERD7S46I.uasset'
+[2023.10.29-22.23.42:410][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/GR/0ZVMHWUA5UMF0JEK5VD0OL
+[2023.10.29-22.23.42:410][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/0ZVMHWUA5UMF0JEK5VD0OLF91765CB4025C79FC9CFE6B02E387039.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/GR/0ZVMHWUA5UMF0JEK5VD0OL.uasset'
+[2023.10.29-22.23.42:425][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/QJ/HQAXMC5HAMOZC63FYHV4RF
+[2023.10.29-22.23.42:426][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/HQAXMC5HAMOZC63FYHV4RF2B21CD1D4741AFD031B75C816AB08FB5.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/QJ/HQAXMC5HAMOZC63FYHV4RF.uasset'
+[2023.10.29-22.23.42:440][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/6/MU/TY2ZRHEJWEXP3CZY7XVPEO
+[2023.10.29-22.23.42:440][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/TY2ZRHEJWEXP3CZY7XVPEOBE4239A94FC0888A55C598B9AFCA9073.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/6/MU/TY2ZRHEJWEXP3CZY7XVPEO.uasset'
+[2023.10.29-22.23.42:456][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/F8/RWIR9INENDAS0M00MARA6Q
+[2023.10.29-22.23.42:456][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/RWIR9INENDAS0M00MARA6QF5AC4CFF4B0150FA4B429AB3316A2E78.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/F8/RWIR9INENDAS0M00MARA6Q.uasset'
+[2023.10.29-22.23.42:472][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/XQ/56HM8T4OX8UP08V7A38NWQ
+[2023.10.29-22.23.42:472][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/56HM8T4OX8UP08V7A38NWQ832907294B63E0877F31DF8E9F2FB5A2.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/XQ/56HM8T4OX8UP08V7A38NWQ.uasset'
+[2023.10.29-22.23.42:488][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/04/HQSLHXL5DAD9LUJC4HF0VC
+[2023.10.29-22.23.42:488][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/HQSLHXL5DAD9LUJC4HF0VC48A067E6432CB3FC1CB091AA97BFDE7D.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/04/HQSLHXL5DAD9LUJC4HF0VC.uasset'
+[2023.10.29-22.23.42:503][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/E/GS/CZB4LJD0J9VP1N3JP3EJI5
+[2023.10.29-22.23.42:503][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/CZB4LJD0J9VP1N3JP3EJI543DED3A9452D7ABC57FAB695D9E75279.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/E/GS/CZB4LJD0J9VP1N3JP3EJI5.uasset'
+[2023.10.29-22.23.42:520][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/3M/TCBARE810JYK4CM8WTM0Q1
+[2023.10.29-22.23.42:520][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/TCBARE810JYK4CM8WTM0Q16E836C03446B032217266486F166308D.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/3M/TCBARE810JYK4CM8WTM0Q1.uasset'
+[2023.10.29-22.23.42:535][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/M0/XOWXCJNNYQGL95YS1LWRTU
+[2023.10.29-22.23.42:535][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/XOWXCJNNYQGL95YS1LWRTU7209B3234AC6FC8C9D5A429BDEC19FB9.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/M0/XOWXCJNNYQGL95YS1LWRTU.uasset'
+[2023.10.29-22.23.42:550][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/ZM/X50CD0ANMPW2EMIP4DDAHU
+[2023.10.29-22.23.42:550][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/X50CD0ANMPW2EMIP4DDAHU0C99A53847CB2C095D3913B5506708C5.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/ZM/X50CD0ANMPW2EMIP4DDAHU.uasset'
+[2023.10.29-22.23.42:564][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/6M/36CVQTZC7A3IBUHCS2M4G6
+[2023.10.29-22.23.42:564][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/36CVQTZC7A3IBUHCS2M4G62BB1C8D441B37F44EAD47E8D27FCCA5E.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/6M/36CVQTZC7A3IBUHCS2M4G6.uasset'
+[2023.10.29-22.23.42:582][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/G8/AB778UQ8SA26VCHQW43AA3
+[2023.10.29-22.23.42:582][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/AB778UQ8SA26VCHQW43AA3C2F3AA854B479106F2497AB7F7A54DDA.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/G8/AB778UQ8SA26VCHQW43AA3.uasset'
+[2023.10.29-22.23.42:596][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/JX/UMW2M8U5OJ8YQDGVMZGJRS
+[2023.10.29-22.23.42:596][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/UMW2M8U5OJ8YQDGVMZGJRSF03DF8DC4A5F3F8CDC571C97367F4DA2.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/JX/UMW2M8U5OJ8YQDGVMZGJRS.uasset'
+[2023.10.29-22.23.42:613][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/GP/FO1RZVH2EJWC9YVBDR9PKY
+[2023.10.29-22.23.42:613][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/FO1RZVH2EJWC9YVBDR9PKY20FB177947132CB7911B1D93229B850F.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/GP/FO1RZVH2EJWC9YVBDR9PKY.uasset'
+[2023.10.29-22.23.42:628][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/B/QM/9BGU8SZM7WXQMFRXRSHDGP
+[2023.10.29-22.23.42:628][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/9BGU8SZM7WXQMFRXRSHDGPF2B89A9240F6854D8A623FB7C29FF309.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/B/QM/9BGU8SZM7WXQMFRXRSHDGP.uasset'
+[2023.10.29-22.23.42:644][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/NL/ON58SDVSGF0MIHTTOJ27UX
+[2023.10.29-22.23.42:644][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/ON58SDVSGF0MIHTTOJ27UX20D8DBD6486D55695252408EFBC625F0.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/NL/ON58SDVSGF0MIHTTOJ27UX.uasset'
+[2023.10.29-22.23.42:660][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/GM/4AGHJMM8RCTZRRJG4N4OJW
+[2023.10.29-22.23.42:660][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/4AGHJMM8RCTZRRJG4N4OJW4F1177EE4A397087D6B9B7B9F412866F.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/GM/4AGHJMM8RCTZRRJG4N4OJW.uasset'
+[2023.10.29-22.23.42:676][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/BH/86FIRYB5RDIKOCBTDLXZK3
+[2023.10.29-22.23.42:676][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/86FIRYB5RDIKOCBTDLXZK35AD41A924C70F804F860ABBF5776AA47.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/BH/86FIRYB5RDIKOCBTDLXZK3.uasset'
+[2023.10.29-22.23.42:691][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/WH/AI3NI9B2YWMBPRDQQ5CJGU
+[2023.10.29-22.23.42:691][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/AI3NI9B2YWMBPRDQQ5CJGUE7EC498241A1F211BF64AEA72F2C47C3.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/WH/AI3NI9B2YWMBPRDQQ5CJGU.uasset'
+[2023.10.29-22.23.42:707][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/ZA/CL947NSGEHBC0IRIWK6CE9
+[2023.10.29-22.23.42:707][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/CL947NSGEHBC0IRIWK6CE9A390DB474116DB52CD6AF49739DB5915.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/ZA/CL947NSGEHBC0IRIWK6CE9.uasset'
+[2023.10.29-22.23.42:725][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/CT/YJJ4QAQ921EKBB2N81EVMT
+[2023.10.29-22.23.42:725][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/YJJ4QAQ921EKBB2N81EVMT8172A4BE4C9C95DE5CB69094A0CD792B.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/CT/YJJ4QAQ921EKBB2N81EVMT.uasset'
+[2023.10.29-22.23.42:741][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/8D/8VTCECJ3DNEZ697GXYKKMQ
+[2023.10.29-22.23.42:741][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/8VTCECJ3DNEZ697GXYKKMQBD4BA1F740637D926A33D492C9FEB106.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/8D/8VTCECJ3DNEZ697GXYKKMQ.uasset'
+[2023.10.29-22.23.42:756][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/Q4/7JRNRRB3YEVVIRUC3UEBVO
+[2023.10.29-22.23.42:756][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/7JRNRRB3YEVVIRUC3UEBVO97E3F3124976DBEA1ED695933E00D652.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/Q4/7JRNRRB3YEVVIRUC3UEBVO.uasset'
+[2023.10.29-22.23.42:772][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/7/3V/PI4R4HGUZZVS9E155QIA38
+[2023.10.29-22.23.42:772][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/PI4R4HGUZZVS9E155QIA38D232F5A34D4880AA49AF1997B023B5F5.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/7/3V/PI4R4HGUZZVS9E155QIA38.uasset'
+[2023.10.29-22.23.42:784][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/9D/NCWTLIK1ANNLJ9WWCKVPXZ
+[2023.10.29-22.23.42:784][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/NCWTLIK1ANNLJ9WWCKVPXZ26C13D67422D2BB001957087D9E06ED6.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/9D/NCWTLIK1ANNLJ9WWCKVPXZ.uasset'
+[2023.10.29-22.23.42:794][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/5N/XVYZTH8R95WMIQAIC8WOK2
+[2023.10.29-22.23.42:794][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/XVYZTH8R95WMIQAIC8WOK2A7C0A7AD47D657C50BD655BF954852E8.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/5N/XVYZTH8R95WMIQAIC8WOK2.uasset'
+[2023.10.29-22.23.42:813][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/GO/3EBS45BZ2IZ1L0MOO3ZW04
+[2023.10.29-22.23.42:813][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/3EBS45BZ2IZ1L0MOO3ZW0433CAEF1A405CE838D14F0B886D3B6F1D.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/GO/3EBS45BZ2IZ1L0MOO3ZW04.uasset'
+[2023.10.29-22.23.42:828][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/4N/1ZW23XVC0UR53K7G3J9LV9
+[2023.10.29-22.23.42:828][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/1ZW23XVC0UR53K7G3J9LV96E4D2598403964C9108C50A9FBFA96E0.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/4N/1ZW23XVC0UR53K7G3J9LV9.uasset'
+[2023.10.29-22.23.42:838][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/QR/VH766S8DYZJK8ESZO1OQ5P
+[2023.10.29-22.23.42:838][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/VH766S8DYZJK8ESZO1OQ5P358870B04D0A6D374C0F52BEFD12540D.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/QR/VH766S8DYZJK8ESZO1OQ5P.uasset'
+[2023.10.29-22.23.42:849][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/X3/Q838US5RQOPE6YBRSCKRBR
+[2023.10.29-22.23.42:849][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/Q838US5RQOPE6YBRSCKRBRA422A3A84FE6F4597725DFAD353EBE8C.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/X3/Q838US5RQOPE6YBRSCKRBR.uasset'
+[2023.10.29-22.23.42:858][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/E/VI/O8NPSX8M3AT8OZLXQH41GB
+[2023.10.29-22.23.42:858][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/O8NPSX8M3AT8OZLXQH41GB21AAE0794751F1ED49109CA644E6807E.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/E/VI/O8NPSX8M3AT8OZLXQH41GB.uasset'
+[2023.10.29-22.23.42:874][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/X2/FXBM2PFJTJMFW9RO806OFY
+[2023.10.29-22.23.42:874][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/FXBM2PFJTJMFW9RO806OFY8334279C4055EE8B60832B99574ABCCC.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/X2/FXBM2PFJTJMFW9RO806OFY.uasset'
+[2023.10.29-22.23.42:884][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/ME/Q26ECDM2JSPY9GNYKXSFIG
+[2023.10.29-22.23.42:884][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/Q26ECDM2JSPY9GNYKXSFIGC4D12FDC4C0B1F14116C379D20908DCF.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/ME/Q26ECDM2JSPY9GNYKXSFIG.uasset'
+[2023.10.29-22.23.42:898][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/QH/GL7T6GQTAR87ZM7XAHOVH1
+[2023.10.29-22.23.42:898][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/GL7T6GQTAR87ZM7XAHOVH127FADA1C46800D63D81BB4817F5F6D5C.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/QH/GL7T6GQTAR87ZM7XAHOVH1.uasset'
+[2023.10.29-22.23.42:913][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/0Y/E4C43WAH8JIDTUG7OPVAAW
+[2023.10.29-22.23.42:913][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/E4C43WAH8JIDTUG7OPVAAW991842684C0EFEB613A8D4BD58679425.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/0Y/E4C43WAH8JIDTUG7OPVAAW.uasset'
+[2023.10.29-22.23.42:923][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/VE/WKTS54CG9ND9LPUA2PVYLR
+[2023.10.29-22.23.42:923][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/WKTS54CG9ND9LPUA2PVYLR7D29F78942D6480FDB8FB9B2E49F59E3.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/VE/WKTS54CG9ND9LPUA2PVYLR.uasset'
+[2023.10.29-22.23.42:933][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/0L/2WO78PY2ML1H7L2SSG306S
+[2023.10.29-22.23.42:933][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/2WO78PY2ML1H7L2SSG306S2667F03E43F3125F8ACBF488F249444C.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/0L/2WO78PY2ML1H7L2SSG306S.uasset'
+[2023.10.29-22.23.42:943][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/A/WF/R739OB0W34JR975CDC7M6P
+[2023.10.29-22.23.42:943][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/R739OB0W34JR975CDC7M6P83354E1B493381A01277B9ADD19F41EC.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/A/WF/R739OB0W34JR975CDC7M6P.uasset'
+[2023.10.29-22.23.42:954][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/33/LU8KQH2LCPWZMCDZ7V7K4B
+[2023.10.29-22.23.42:954][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/LU8KQH2LCPWZMCDZ7V7K4BD6F2B4DE48E824FFB7C59881B68C4983.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/33/LU8KQH2LCPWZMCDZ7V7K4B.uasset'
+[2023.10.29-22.23.42:965][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/F/0L/WR53O3GLRI92FAWNVU5JZV
+[2023.10.29-22.23.42:965][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/WR53O3GLRI92FAWNVU5JZVFF67254E438E367B883239B01A9474D5.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/F/0L/WR53O3GLRI92FAWNVU5JZV.uasset'
+[2023.10.29-22.23.42:976][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/W0/VW1GGI0N5COOJ58C6J3SVV
+[2023.10.29-22.23.42:976][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/VW1GGI0N5COOJ58C6J3SVVC70862234951AE45E48665B67FA3328E.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/W0/VW1GGI0N5COOJ58C6J3SVV.uasset'
+[2023.10.29-22.23.42:988][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/1P/FPJY8QFGLWQBLPDBT0POUK
+[2023.10.29-22.23.42:988][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/FPJY8QFGLWQBLPDBT0POUKD2594BA4499B25BF4D56AD8945851E0C.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/1P/FPJY8QFGLWQBLPDBT0POUK.uasset'
+[2023.10.29-22.23.42:998][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/E/DI/GIGRU12514TSP3RY7Q7ZKG
+[2023.10.29-22.23.42:998][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/GIGRU12514TSP3RY7Q7ZKGDFA8BDD54710BD05146D679ABEC7862D.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/E/DI/GIGRU12514TSP3RY7Q7ZKG.uasset'
+[2023.10.29-22.23.43:013][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/41/ZHHNA8AFTPIGKV5VTD50H0
+[2023.10.29-22.23.43:013][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/ZHHNA8AFTPIGKV5VTD50H0AD64EA1D4EC87B342FCE06851FD98BCF.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/41/ZHHNA8AFTPIGKV5VTD50H0.uasset'
+[2023.10.29-22.23.43:028][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/OT/XOGRAAW0WE1FPIDWT83XM8
+[2023.10.29-22.23.43:028][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/XOGRAAW0WE1FPIDWT83XM8B7CD0469473CA679670C21BB990555F4.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/OT/XOGRAAW0WE1FPIDWT83XM8.uasset'
+[2023.10.29-22.23.43:041][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/0K/9K6FF05QIVF0AC9KKWLASE
+[2023.10.29-22.23.43:041][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/9K6FF05QIVF0AC9KKWLASE09D37BB24475E51D903FA68CD7766B89.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/0K/9K6FF05QIVF0AC9KKWLASE.uasset'
+[2023.10.29-22.23.43:052][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/TD/0DLT66WS0HQLBEGFDVKAQ4
+[2023.10.29-22.23.43:052][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/0DLT66WS0HQLBEGFDVKAQ4E4C8D1AE4B02215A44B0E59ADA837F27.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/TD/0DLT66WS0HQLBEGFDVKAQ4.uasset'
+[2023.10.29-22.23.43:062][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/9/1G/LFIRQEOX9ZT3U42BI98EUV
+[2023.10.29-22.23.43:062][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/LFIRQEOX9ZT3U42BI98EUV365DE7864CC431487B7E879C90A0E128.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/9/1G/LFIRQEOX9ZT3U42BI98EUV.uasset'
+[2023.10.29-22.23.43:072][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/DJ/2CWBUN20R3KEEAZEREQM8B
+[2023.10.29-22.23.43:072][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/2CWBUN20R3KEEAZEREQM8B63C7FC774754C0D65EB232B3683B9B65.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/DJ/2CWBUN20R3KEEAZEREQM8B.uasset'
+[2023.10.29-22.23.43:082][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/2T/T85D4093G3QI5OAUJS8IOR
+[2023.10.29-22.23.43:082][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/T85D4093G3QI5OAUJS8IOR632148E04E21E1D10059F4B3D2CF71B8.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/2T/T85D4093G3QI5OAUJS8IOR.uasset'
+[2023.10.29-22.23.43:092][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/IW/L6RW9K6O7DWYY07Y3DF09O
+[2023.10.29-22.23.43:092][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/L6RW9K6O7DWYY07Y3DF09O3868D21842A0D3BF356471A025D99095.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/IW/L6RW9K6O7DWYY07Y3DF09O.uasset'
+[2023.10.29-22.23.43:101][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/6/F6/YPB62P6774TAT9QQEK6730
+[2023.10.29-22.23.43:101][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/YPB62P6774TAT9QQEK673057096BC5400104A586CEBBADAC845BA2.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/6/F6/YPB62P6774TAT9QQEK6730.uasset'
+[2023.10.29-22.23.43:111][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/5M/GMTJQI2SX8F9WZZ86W2DNS
+[2023.10.29-22.23.43:111][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/GMTJQI2SX8F9WZZ86W2DNS180C7D8C4542BB5860E60EA2393041F9.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/5M/GMTJQI2SX8F9WZZ86W2DNS.uasset'
+[2023.10.29-22.23.43:120][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/CM/6HN0X2KDHI3LGB9GG4MNUH
+[2023.10.29-22.23.43:120][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/6HN0X2KDHI3LGB9GG4MNUH4D209E1E477A2679D6362D825BF1D3C9.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/CM/6HN0X2KDHI3LGB9GG4MNUH.uasset'
+[2023.10.29-22.23.43:130][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/3/N0/QNGL5580YEH22PLDQWB9MK
+[2023.10.29-22.23.43:130][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/QNGL5580YEH22PLDQWB9MKEC29CA6F43B4B82C2330E7BCB1E0A2BF.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/3/N0/QNGL5580YEH22PLDQWB9MK.uasset'
+[2023.10.29-22.23.43:140][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/E/P5/0UHCLJG667WDP8C4KW1AEI
+[2023.10.29-22.23.43:140][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/0UHCLJG667WDP8C4KW1AEIE27B51D9478E774DEC2B56955C3A2D4E.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/E/P5/0UHCLJG667WDP8C4KW1AEI.uasset'
+[2023.10.29-22.23.43:150][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/DN/L4ZR0UA79Y5JTXWJMOG75M
+[2023.10.29-22.23.43:150][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/L4ZR0UA79Y5JTXWJMOG75M4EC4CDBD405E06633832ADBB3C84A7AF.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/DN/L4ZR0UA79Y5JTXWJMOG75M.uasset'
+[2023.10.29-22.23.43:160][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/D8/TBDXBTQ14MNU9VG4OVK7LU
+[2023.10.29-22.23.43:160][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/TBDXBTQ14MNU9VG4OVK7LUDD49A224419C6BC7F53255B2DAC8BFA6.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/D8/TBDXBTQ14MNU9VG4OVK7LU.uasset'
+[2023.10.29-22.23.43:170][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/7/R0/OPSX1BU63M8S3VDKD83E18
+[2023.10.29-22.23.43:170][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/OPSX1BU63M8S3VDKD83E18E1938FB14F83DF42D0701FB5FB90D661.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/7/R0/OPSX1BU63M8S3VDKD83E18.uasset'
+[2023.10.29-22.23.43:187][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/N2/KXHRXQ4SU7BO2M9H3GLXFO
+[2023.10.29-22.23.43:187][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/KXHRXQ4SU7BO2M9H3GLXFOEE9EEF434E6FA2EBEE341195197AA48C.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/N2/KXHRXQ4SU7BO2M9H3GLXFO.uasset'
+[2023.10.29-22.23.43:200][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/2/MV/NNPRMM6BP2JAI400F9WXQ8
+[2023.10.29-22.23.43:200][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/NNPRMM6BP2JAI400F9WXQ81772AB474303F562DA43E7843FEE7CEC.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/2/MV/NNPRMM6BP2JAI400F9WXQ8.uasset'
+[2023.10.29-22.23.43:214][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/M7/6JUSLMR4JB46AKA51N9SQN
+[2023.10.29-22.23.43:214][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/6JUSLMR4JB46AKA51N9SQN72B0876242A4D940E3E9B48AAE7102C3.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/M7/6JUSLMR4JB46AKA51N9SQN.uasset'
+[2023.10.29-22.23.43:223][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/5/RI/LDIPH156JW481W4IGFSHKT
+[2023.10.29-22.23.43:223][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/LDIPH156JW481W4IGFSHKT2BC2342841CF6959D34A55BAA9DE089C.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/RI/LDIPH156JW481W4IGFSHKT.uasset'
+[2023.10.29-22.23.43:234][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/7A/Y1MVBI8MHFKWNPHD5AQ2XS
+[2023.10.29-22.23.43:234][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/Y1MVBI8MHFKWNPHD5AQ2XS69B7A9BA40118FB942295CB70CF7B6E3.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/7A/Y1MVBI8MHFKWNPHD5AQ2XS.uasset'
+[2023.10.29-22.23.43:244][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/0/2T/Q0CIMB2QKEF0X7UM7EJKWB
+[2023.10.29-22.23.43:244][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/Q0CIMB2QKEF0X7UM7EJKWB74B90B5444050C025763A08E3DAB3060.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/0/2T/Q0CIMB2QKEF0X7UM7EJKWB.uasset'
+[2023.10.29-22.23.43:257][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/C/12/ST55QBP2BGE9W270D5NCV8
+[2023.10.29-22.23.43:257][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/ST55QBP2BGE9W270D5NCV8FDF8114442D0E4F724D5CC8772C57394.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/C/12/ST55QBP2BGE9W270D5NCV8.uasset'
+[2023.10.29-22.23.43:267][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/7H/C3D3ER26WE5CESCGOTIRZY
+[2023.10.29-22.23.43:267][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/C3D3ER26WE5CESCGOTIRZY379C66814E718B4846370B91D5AE6FE9.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/7H/C3D3ER26WE5CESCGOTIRZY.uasset'
+[2023.10.29-22.23.43:277][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/L5/4BZP3NFUNWA76DZDSIJ803
+[2023.10.29-22.23.43:277][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/4BZP3NFUNWA76DZDSIJ803A6BFC0CA43528449BA4C1DB1E476B560.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/L5/4BZP3NFUNWA76DZDSIJ803.uasset'
+[2023.10.29-22.23.43:288][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/XU/CFTBGSGZUIX99FRQWT32KS
+[2023.10.29-22.23.43:288][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/CFTBGSGZUIX99FRQWT32KS393571E04DB7C9C09CACA7AD96D2B650.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/XU/CFTBGSGZUIX99FRQWT32KS.uasset'
+[2023.10.29-22.23.43:298][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/4/3Q/KM52HTDLY7H9TVAF4LRPZV
+[2023.10.29-22.23.43:298][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/KM52HTDLY7H9TVAF4LRPZVEDE984BC444070473B7A5485A6FFF064.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/3Q/KM52HTDLY7H9TVAF4LRPZV.uasset'
+[2023.10.29-22.23.43:309][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/D/67/9OXV40SVT2VEY93MZ6FFWL
+[2023.10.29-22.23.43:309][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/9OXV40SVT2VEY93MZ6FFWL0532FD2747A3BD2049E10BB76BEE52C5.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/67/9OXV40SVT2VEY93MZ6FFWL.uasset'
+[2023.10.29-22.23.43:319][510]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MathGame/8/XS/41W6WB299192PFVDGB1C9F
+[2023.10.29-22.23.43:319][510]LogSavePackage: Moving '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Saved/41W6WB299192PFVDGB1C9FD2B0E03E4A315EEC121361AEEBBF3E3A.tmp' to '../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/XS/41W6WB299192PFVDGB1C9F.uasset'
+[2023.10.29-22.23.43:326][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.81 sec (total: 1.90 sec)
+[2023.10.29-22.23.43:336][510]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/MathGame_HLOD0_Instancing
+/Game/__ExternalActors__/MathGame/5/2C/TJ3FOIJ8UP4VU6JHL1PL0U
+/Game/__ExternalObjects__/MathGame/8/13/E07LCH0M99M1G4J91S5HWK
+/Game/__ExternalObjects__/MathGame/D/H5/02UDM4FYWD99IXD2LHAHDU
+/Game/__ExternalObjects__/MathGame/E/Q2/AUPY587GKPME5RE0EZ6ZHD
+/Game/__ExternalObjects__/MathGame/E/FO/KEKQWPLZTSDIT8E1AQKB6V
+/Game/__ExternalObjects__/MathGame/3/5U/COYIJJKQBN7SG1HPV4242E
+/Game/__ExternalObjects__/MathGame/A/77/1NOSO30F1WTTIKH8G454OJ
+/Game/__ExternalActors__/MathGame/B/CC/PGXCINBYZN91V0EA5PXEMG
+/Game/__ExternalActors__/MathGame/4/MG/QVKZB8Z9HJ8EBN9A7HYIHI
+/Game/__ExternalActors__/MathGame/6/ZA/Y5X7P5FO5HZXYY4XVO3PYX
+/Game/__ExternalActors__/MathGame/6/P3/CQ6IEYCKEC36S32OYGCN8R
+/Game/__ExternalActors__/MathGame/8/GY/IQ3TJ407MS3DX4W28UMGZW
+/Game/__ExternalActors__/MathGame/C/Z0/YNZE4XLT69RYSMFGNNRQL0
+/Game/__ExternalActors__/MathGame/7/A5/3OV9MI3UPIB46TP9P2D2YA
+/Game/__ExternalActors__/MathGame/C/2Y/5W0R57VTE7U61L8HJOYUHP
+/Game/__ExternalActors__/MathGame/8/P0/7GEVMCP8YJV972OFT364VN
+/Game/__ExternalActors__/MathGame/3/C1/JWZXK7G471VHHF5TI77OKN
+/Game/__ExternalActors__/MathGame/A/HP/4YRAFN928ZB1NZOZ85F4XY
+/Game/__ExternalActors__/MathGame/9/AY/Q66I5Q8QY6ZDIFOG1SEIE5
+/Game/__ExternalActors__/MathGame/1/JF/4S2KY41ETMQ2PMBA6Y0FU1
+/Game/__ExternalActors__/MathGame/D/HO/DQNHTJMUYTCG5YNCY0UOW3
+/Game/__ExternalActors__/MathGame/4/3S/EN9P5SGZE7RWJUH1W32RKT
+/Game/__ExternalActors__/MathGame/2/WS/ZUBULYD8D0B1FW4NS296AS
+/Game/__ExternalActors__/MathGame/D/9H/SYDU7NOJZD2V4BLK7P6KOQ
+/Game/__ExternalActors__/MathGame/5/YQ/S5LUXWMT79MFXBP45YARVX
+/Game/__ExternalActors__/MathGame/4/8W/A7NEUEGOFHQAQGCNNXHC34
+/Game/__ExternalActors__/MathGame/6/PL/21V31IGZN7NQLWGIF029HL
+/Game/__ExternalActors__/MathGame/A/Z0/XY69QHFQO9M4JNQOHHZIBJ
+/Game/__ExternalActors__/MathGame/A/3E/RY176Y1C90Y3GK8M5NZ12X
+/Game/__ExternalActors__/MathGame/2/2S/A5CQ5QN40U5SEWDHKQFB79
+/Game/__ExternalActors__/MathGame/E/XL/F33TFFAI9MYX79ZGA11JSJ
+/Game/__ExternalActors__/MathGame/2/GD/9WX2RYRPG8G988NZQLPZGR
+/Game/__ExternalActors__/MathGame/5/4O/OGB83SD468SLVKFWQP15KJ
+/Game/__ExternalActors__/MathGame/B/27/5AU22N32PI74WB71OG432M
+/Game/__ExternalActors__/MathGame/A/XF/1IV6UJY6KB940SCK5BSJZP
+/Game/__ExternalActors__/MathGame/E/SO/I54PL8W3WRDOK8FYMKBRPD
+/Game/__ExternalActors__/MathGame/0/ZF/LDHVTQC2FS7A5PCOT80IH1
+/Game/__ExternalActors__/MathGame/C/SW/V46HPABG724H4XWD9CLMII
+/Game/__ExternalActors__/MathGame/4/YS/GINNL8OU79XCP7VF3WJ1O9
+/Game/__ExternalActors__/MathGame/2/UD/RJM2FBI514CT3SHV5QJI97
+/Game/__ExternalActors__/MathGame/D/QD/EHPCJEICQKD42B5ISYRETZ
+/Game/__ExternalActors__/MathGame/0/H1/CKGI136PMGH5AZFYP1NHPX
+/Game/__ExternalActors__/MathGame/2/QJ/BIY5H3D8R37QFIEFSL2PPU
+/Game/__ExternalActors__/MathGame/C/1A/MB94YB7RV31M380YHG7O5B
+/Game/__ExternalActors__/MathGame/B/EP/OXGAYPQ2LMQYIZZ8TLXYAA
+/Game/__ExternalActors__/MathGame/E/GK/K5L1OS3WN1O85JWY64CGOR
+/Game/__ExternalActors__/MathGame/8/KB/JHX8OQSFT3AUDDKOJT9SBN
+/Game/__ExternalActors__/MathGame/2/35/ATI1A6I5KYI2V13892IOC4
+/Game/__ExternalActors__/MathGame/7/EU/2NE91H191RILAQL2SILHBY
+/Game/__ExternalActors__/MathGame/4/HZ/OXS83NTHCTOX7BZ19GFKE0
+/Game/__ExternalActors__/MathGame/0/4C/T412120F2AE0WAV3K9ZLBK
+/Game/__ExternalActors__/MathGame/D/YH/D689T6117KXE4GN0VIGVDB
+/Game/__ExternalActors__/MathGame/A/SQ/K3VI4TUTCIQ6P4Q1Q0NJFT
+/Game/__ExternalActors__/MathGame/B/GM/KUZ0SBPIEWDZA8S1I5XWV9
+/Game/__ExternalActors__/MathGame/C/7S/9ZR6WF2RM3ZYO60RRQ59UL
+/Game/__ExternalActors__/MathGame/7/AG/GVZD9KNORKVMB4GCTF4RW3
+/Game/__ExternalActors__/MathGame/2/8L/8G7PR37PTBIIXEERD7S46I
+/Game/__ExternalActors__/MathGame/4/GR/0ZVMHWUA5UMF0JEK5VD0OL
+/Game/__ExternalActors__/MathGame/D/QJ/HQAXMC5HAMOZC63FYHV4RF
+/Game/__ExternalActors__/MathGame/6/MU/TY2ZRHEJWEXP3CZY7XVPEO
+/Game/__ExternalActors__/MathGame/4/F8/RWIR9INENDAS0M00MARA6Q
+/Game/__ExternalActors__/MathGame/A/XQ/56HM8T4OX8UP08V7A38NWQ
+/Game/__ExternalActors__/MathGame/A/04/HQSLHXL5DAD9LUJC4HF0VC
+/Game/__ExternalActors__/MathGame/E/GS/CZB4LJD0J9VP1N3JP3EJI5
+/Game/__ExternalActors__/MathGame/5/3M/TCBARE810JYK4CM8WTM0Q1
+/Game/__ExternalActors__/MathGame/0/M0/XOWXCJNNYQGL95YS1LWRTU
+/Game/__ExternalActors__/MathGame/9/ZM/X50CD0ANMPW2EMIP4DDAHU
+/Game/__ExternalActors__/MathGame/9/6M/36CVQTZC7A3IBUHCS2M4G6
+/Game/__ExternalActors__/MathGame/3/G8/AB778UQ8SA26VCHQW43AA3
+/Game/__ExternalActors__/MathGame/5/JX/UMW2M8U5OJ8YQDGVMZGJRS
+/Game/__ExternalActors__/MathGame/5/GP/FO1RZVH2EJWC9YVBDR9PKY
+/Game/__ExternalActors__/MathGame/B/QM/9BGU8SZM7WXQMFRXRSHDGP
+/Game/__ExternalActors__/MathGame/D/NL/ON58SDVSGF0MIHTTOJ27UX
+/Game/__ExternalActors__/MathGame/3/GM/4AGHJMM8RCTZRRJG4N4OJW
+/Game/__ExternalActors__/MathGame/D/BH/86FIRYB5RDIKOCBTDLXZK3
+/Game/__ExternalActors__/MathGame/3/WH/AI3NI9B2YWMBPRDQQ5CJGU
+/Game/__ExternalActors__/MathGame/0/ZA/CL947NSGEHBC0IRIWK6CE9
+/Game/__ExternalActors__/MathGame/8/CT/YJJ4QAQ921EKBB2N81EVMT
+/Game/__ExternalActors__/MathGame/8/8D/8VTCECJ3DNEZ697GXYKKMQ
+/Game/__ExternalActors__/MathGame/9/Q4/7JRNRRB3YEVVIRUC3UEBVO
+/Game/__ExternalActors__/MathGame/7/3V/PI4R4HGUZZVS9E155QIA38
+/Game/__ExternalActors__/MathGame/3/9D/NCWTLIK1ANNLJ9WWCKVPXZ
+/Game/__ExternalActors__/MathGame/0/5N/XVYZTH8R95WMIQAIC8WOK2
+/Game/__ExternalActors__/MathGame/5/GO/3EBS45BZ2IZ1L0MOO3ZW04
+/Game/__ExternalActors__/MathGame/3/4N/1ZW23XVC0UR53K7G3J9LV9
+/Game/__ExternalActors__/MathGame/3/QR/VH766S8DYZJK8ESZO1OQ5P
+/Game/__ExternalActors__/MathGame/C/X3/Q838US5RQOPE6YBRSCKRBR
+/Game/__ExternalActors__/MathGame/E/VI/O8NPSX8M3AT8OZLXQH41GB
+/Game/__ExternalActors__/MathGame/0/X2/FXBM2PFJTJMFW9RO806OFY
+/Game/__ExternalActors__/MathGame/3/ME/Q26ECDM2JSPY9GNYKXSFIG
+/Game/__ExternalActors__/MathGame/5/QH/GL7T6GQTAR87ZM7XAHOVH1
+/Game/__ExternalActors__/MathGame/4/0Y/E4C43WAH8JIDTUG7OPVAAW
+/Game/__ExternalActors__/MathGame/9/VE/WKTS54CG9ND9LPUA2PVYLR
+/Game/__ExternalActors__/MathGame/A/0L/2WO78PY2ML1H7L2SSG306S
+/Game/__ExternalActors__/MathGame/A/WF/R739OB0W34JR975CDC7M6P
+/Game/__ExternalActors__/MathGame/9/33/LU8KQH2LCPWZMCDZ7V7K4B
+/Game/__ExternalActors__/MathGame/F/0L/WR53O3GLRI92FAWNVU5JZV
+/Game/__ExternalActors__/MathGame/5/W0/VW1GGI0N5COOJ58C6J3SVV
+/Game/__ExternalActors__/MathGame/9/1P/FPJY8QFGLWQBLPDBT0POUK
+/Game/__ExternalActors__/MathGame/E/DI/GIGRU12514TSP3RY7Q7ZKG
+/Game/__ExternalActors__/MathGame/5/41/ZHHNA8AFTPIGKV5VTD50H0
+/Game/__ExternalActors__/MathGame/2/OT/XOGRAAW0WE1FPIDWT83XM8
+/Game/__ExternalActors__/MathGame/5/0K/9K6FF05QIVF0AC9KKWLASE
+/Game/__ExternalActors__/MathGame/9/TD/0DLT66WS0HQLBEGFDVKAQ4
+/Game/__ExternalActors__/MathGame/9/1G/LFIRQEOX9ZT3U42BI98EUV
+/Game/__ExternalActors__/MathGame/0/DJ/2CWBUN20R3KEEAZEREQM8B
+/Game/__ExternalActors__/MathGame/0/2T/T85D4093G3QI5OAUJS8IOR
+/Game/__ExternalActors__/MathGame/D/IW/L6RW9K6O7DWYY07Y3DF09O
+/Game/__ExternalActors__/MathGame/6/F6/YPB62P6774TAT9QQEK6730
+/Game/__ExternalActors__/MathGame/C/5M/GMTJQI2SX8F9WZZ86W2DNS
+/Game/__ExternalActors__/MathGame/0/CM/6HN0X2KDHI3LGB9GG4MNUH
+/Game/__ExternalActors__/MathGame/3/N0/QNGL5580YEH22PLDQWB9MK
+/Game/__ExternalActors__/MathGame/E/P5/0UHCLJG667WDP8C4KW1AEI
+/Game/__ExternalActors__/MathGame/C/DN/L4ZR0UA79Y5JTXWJMOG75M
+/Game/__ExternalActors__/MathGame/D/D8/TBDXBTQ14MNU9VG4OVK7LU
+/Game/__ExternalActors__/MathGame/7/R0/OPSX1BU63M8S3VDKD83E18
+/Game/__ExternalActors__/MathGame/D/N2/KXHRXQ4SU7BO2M9H3GLXFO
+/Game/__ExternalActors__/MathGame/2/MV/NNPRMM6BP2JAI400F9WXQ8
+/Game/__ExternalActors__/MathGame/5/M7/6JUSLMR4JB46AKA51N9SQN
+/Game/__ExternalActors__/MathGame/5/RI/LDIPH156JW481W4IGFSHKT
+/Game/__ExternalActors__/MathGame/8/7A/Y1MVBI8MHFKWNPHD5AQ2XS
+/Game/__ExternalActors__/MathGame/0/2T/Q0CIMB2QKEF0X7UM7EJKWB
+/Game/__ExternalActors__/MathGame/C/12/ST55QBP2BGE9W270D5NCV8
+/Game/__ExternalActors__/MathGame/4/7H/C3D3ER26WE5CESCGOTIRZY
+/Game/__ExternalActors__/MathGame/8/L5/4BZP3NFUNWA76DZDSIJ803
+/Game/__ExternalActors__/MathGame/8/XU/CFTBGSGZUIX99FRQWT32KS
+/Game/__ExternalActors__/MathGame/4/3Q/KM52HTDLY7H9TVAF4LRPZV
+/Game/__ExternalActors__/MathGame/D/67/9OXV40SVT2VEY93MZ6FFWL
+/Game/__ExternalActors__/MathGame/8/XS/41W6WB299192PFVDGB1C9F
+[2023.10.29-22.23.43:494][510]LogFileHelpers: Saving map 'MathGame' took 2.456
+[2023.10.29-22.23.43:495][510]Cmd: MAP LOAD FILE="../../../../../../Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.29-22.23.43:496][510]LightingResults: New page: Lighting Build
+[2023.10.29-22.23.43:497][510]LoadErrors: New page: Loading map: MathGame.umap
+[2023.10.29-22.23.43:552][510]LogWorld: UWorld::CleanupWorld for MathGame, bSessionEnded=true, bCleanupResources=true
+[2023.10.29-22.23.43:555][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.29-22.23.43:566][510]LogContentBundle: [MathGame(Standalone)] Deleting container.
+[2023.10.29-22.23.43:569][510]MapCheck: New page: Map Check
+[2023.10.29-22.23.43:569][510]LightingResults: New page: Lighting Build
+[2023.10.29-22.23.43:589][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.29-22.23.43:616][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.29-22.23.43:625][510]LogAudio: Display: Audio Device (ID: 1) registered with world 'MathGame'.
+[2023.10.29-22.23.43:625][510]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.29-22.23.43:626][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.29-22.23.43:628][510]LogAIModule: Creating AISystem for world MathGame
+[2023.10.29-22.23.43:634][510]LogWorldPartition: ULevel::OnLevelLoaded(MathGame)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.10.29-22.23.43:634][510]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.29-22.23.43:634][510]LogWorldPartition: UWorldPartition::Initialize : World = MathGame, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.29-22.23.43:831][510]LogContentBundle: [MathGame(Standalone)] Creating new contrainer.
+[2023.10.29-22.23.43:835][510]LogWorldPartition: Display: WorldPartition initialize took 201 ms (total: 492 ms)
+[2023.10.29-22.23.44:173][510]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.29-22.23.44:179][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.10.29-22.23.44:184][510]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.29-22.23.44:186][510]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.786ms to complete.
+[2023.10.29-22.23.44:210][510]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.29-22.23.44:210][510]LogContentValidation: Display: Validating /Script/Engine.World /Game/MathGame.MathGame
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/MathGame_HLOD0_Instancing.MathGame_HLOD0_Instancing
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/MathGame.MathGame:PersistentLevel.WorldDataLayers
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MathGame.MathGame:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MathGame.MathGame:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MathGame.MathGame:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MathGame.MathGame:PersistentLevel.ActorFolder_UID_C11A5F59-487C0DB2-AA58CABA-5DEDB377
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MathGame.MathGame:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/MathGame.MathGame:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/MathGame.MathGame:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/MathGame.MathGame:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/MathGame.MathGame:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/MathGame.MathGame:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/MathGame.MathGame:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/MathGame.MathGame:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/MathGame.MathGame:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/MathGame.MathGame:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/MathGame.MathGame:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2023.10.29-22.23.44:211][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2023.10.29-22.23.44:212][510]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/MathGame.MathGame:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2023.10.29-22.23.44:401][510]LogAutomationController: Ignoring very large delta of 11.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.29-22.23.47:278][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.10.29-22.23.47:280][676]LogStall: Shutdown...
+[2023.10.29-22.23.47:288][676]LogStall: Shutdown complete.
+[2023.10.29-22.23.47:338][676]LogSlate: Window 'KidGames - Unreal Editor' being destroyed
+[2023.10.29-22.23.47:507][677]Cmd: QUIT_EDITOR
+[2023.10.29-22.23.47:508][677]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.10.29-22.23.47:516][677]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.10.29-22.23.47:517][677]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.10.29-22.23.47:517][677]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.10.29-22.23.47:530][677]LogWorld: UWorld::CleanupWorld for MathGame, bSessionEnded=true, bCleanupResources=true
+[2023.10.29-22.23.47:530][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.29-22.23.47:530][677]LogContentBundle: [MathGame(Standalone)] Deleting container.
+[2023.10.29-22.23.47:553][677]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.10.29-22.23.47:753][677]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.10.29-22.23.47:753][677]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.10.29-22.23.47:753][677]LogAudio: Display: Audio Device unregistered from world 'MathGame'.
+[2023.10.29-22.23.47:753][677]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.10.29-22.23.47:755][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.29-22.23.47:757][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.29-22.23.47:763][677]LogAudio: Display: Audio Device Manager Shutdown
+[2023.10.29-22.23.47:764][677]LogSlate: Window 'Content Browser' being destroyed
+[2023.10.29-22.23.47:766][677]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.10.29-22.23.47:798][677]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.10.29-22.23.47:798][677]LogExit: Preparing to exit.
+[2023.10.29-22.23.47:833][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.29-22.23.48:845][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:845][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:845][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:845][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:845][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:845][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:845][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:845][677]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.10.29-22.23.48:846][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:846][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:846][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:846][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:846][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:846][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:846][677]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.29-22.23.48:846][677]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.10.29-22.23.48:982][677]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.10.29-22.23.49:010][677]LogExit: Editor shut down
+[2023.10.29-22.23.49:011][677]LogExit: Transaction tracking system shut down
+[2023.10.29-22.23.49:164][677]LogExit: Object subsystem successfully closed.
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: ================================================
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.29-22.23.49:170][677]LogShaderCompilers: Display: ================================================
+[2023.10.29-22.23.49:204][677]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.10.29-22.23.49:221][677]LogVirtualization: UE::Virtualization was shutdown
+[2023.10.29-22.23.49:289][677]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1052)
+[2023.10.29-22.23.49:290][677]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2023.10.29-22.23.49:290][677]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2023.10.29-22.23.49:290][677]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2023.10.29-22.23.49:290][677]LogModuleManager: Shutting down and abandoning module StatusBar (1044)
+[2023.10.29-22.23.49:290][677]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1042)
+[2023.10.29-22.23.49:290][677]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2023.10.29-22.23.49:292][677]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1038)
+[2023.10.29-22.23.49:292][677]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2023.10.29-22.23.49:292][677]LogModuleManager: Shutting down and abandoning module AddContentDialog (1034)
+[2023.10.29-22.23.49:294][677]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1033)
+[2023.10.29-22.23.49:294][677]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2023.10.29-22.23.49:294][677]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2023.10.29-22.23.49:294][677]LogModuleManager: Shutting down and abandoning module IKRigEditor (1026)
+[2023.10.29-22.23.49:295][677]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1024)
+[2023.10.29-22.23.49:298][677]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1022)
+[2023.10.29-22.23.49:298][677]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1020)
+[2023.10.29-22.23.49:298][677]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1018)
+[2023.10.29-22.23.49:298][677]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1016)
+[2023.10.29-22.23.49:298][677]LogModuleManager: Shutting down and abandoning module WebMMedia (1014)
+[2023.10.29-22.23.49:298][677]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1012)
+[2023.10.29-22.23.49:299][677]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1011)
+[2023.10.29-22.23.49:299][677]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1008)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1006)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1004)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1002)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1000)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (998)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (996)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (994)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (992)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module TextureAlignMode (990)
+[2023.10.29-22.23.49:300][677]LogModuleManager: Shutting down and abandoning module BspMode (988)
+[2023.10.29-22.23.49:301][677]LogModuleManager: Shutting down and abandoning module GeometryMode (986)
+[2023.10.29-22.23.49:301][677]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (984)
+[2023.10.29-22.23.49:301][677]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (982)
+[2023.10.29-22.23.49:303][677]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (980)
+[2023.10.29-22.23.49:303][677]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (978)
+[2023.10.29-22.23.49:304][677]LogModuleManager: Shutting down and abandoning module WaveTableEditor (976)
+[2023.10.29-22.23.49:304][677]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (974)
+[2023.10.29-22.23.49:304][677]LogModuleManager: Shutting down and abandoning module RigVMEditor (972)
+[2023.10.29-22.23.49:304][677]LogModuleManager: Shutting down and abandoning module GooglePADEditor (970)
+[2023.10.29-22.23.49:304][677]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (968)
+[2023.10.29-22.23.49:304][677]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (966)
+[2023.10.29-22.23.49:304][677]LogModuleManager: Shutting down and abandoning module PlanarCut (964)
+[2023.10.29-22.23.49:304][677]LogModuleManager: Shutting down and abandoning module FractureEngine (962)
+[2023.10.29-22.23.49:305][677]LogModuleManager: Shutting down and abandoning module CharacterAI (960)
+[2023.10.29-22.23.49:305][677]LogModuleManager: Shutting down and abandoning module SmartSnapping (958)
+[2023.10.29-22.23.49:305][677]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2023.10.29-22.23.49:305][677]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2023.10.29-22.23.49:306][677]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2023.10.29-22.23.49:306][677]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2023.10.29-22.23.49:306][677]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2023.10.29-22.23.49:307][677]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2023.10.29-22.23.49:308][677]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2023.10.29-22.23.49:308][677]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2023.10.29-22.23.49:308][677]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2023.10.29-22.23.49:308][677]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2023.10.29-22.23.49:308][677]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2023.10.29-22.23.49:308][677]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2023.10.29-22.23.49:310][677]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2023.10.29-22.23.49:310][677]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2023.10.29-22.23.49:310][677]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2023.10.29-22.23.49:311][677]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2023.10.29-22.23.49:311][677]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2023.10.29-22.23.49:312][677]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2023.10.29-22.23.49:312][677]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2023.10.29-22.23.49:855][677]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2023.10.29-22.23.49:855][677]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2023.10.29-22.23.49:855][677]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2023.10.29-22.23.49:855][677]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2023.10.29-22.23.49:855][677]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2023.10.29-22.23.49:856][677]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2023.10.29-22.23.49:856][677]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2023.10.29-22.23.49:856][677]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2023.10.29-22.23.49:856][677]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2023.10.29-22.23.49:856][677]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2023.10.29-22.23.49:856][677]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2023.10.29-22.23.49:856][677]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2023.10.29-22.23.49:856][677]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2023.10.29-22.23.49:858][677]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2023.10.29-22.23.49:860][677]MemoryProfiler: Shutdown
+[2023.10.29-22.23.49:860][677]NetworkingProfiler: Shutdown
+[2023.10.29-22.23.49:860][677]LoadingProfiler: Shutdown
+[2023.10.29-22.23.49:861][677]TimingProfiler: Shutdown
+[2023.10.29-22.23.49:863][677]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2023.10.29-22.23.49:864][677]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2023.10.29-22.23.49:864][677]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2023.10.29-22.23.49:864][677]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2023.10.29-22.23.49:864][677]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2023.10.29-22.23.49:864][677]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2023.10.29-22.23.49:865][677]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2023.10.29-22.23.49:865][677]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2023.10.29-22.23.49:866][677]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2023.10.29-22.23.49:867][677]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2023.10.29-22.23.49:867][677]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2023.10.29-22.23.49:867][677]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2023.10.29-22.23.49:867][677]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2023.10.29-22.23.49:868][677]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2023.10.29-22.23.49:869][677]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2023.10.29-22.23.49:869][677]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2023.10.29-22.23.49:869][677]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2023.10.29-22.23.49:870][677]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2023.10.29-22.23.49:870][677]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2023.10.29-22.23.49:871][677]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2023.10.29-22.23.49:871][677]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2023.10.29-22.23.49:875][677]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2023.10.29-22.23.49:875][677]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2023.10.29-22.23.49:876][677]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2023.10.29-22.23.49:876][677]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2023.10.29-22.23.49:876][677]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2023.10.29-22.23.49:877][677]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2023.10.29-22.23.49:877][677]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2023.10.29-22.23.49:877][677]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2023.10.29-22.23.49:877][677]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2023.10.29-22.23.49:877][677]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2023.10.29-22.23.49:877][677]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2023.10.29-22.23.49:877][677]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2023.10.29-22.23.49:878][677]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2023.10.29-22.23.50:117][677]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2023.10.29-22.23.50:118][677]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2023.10.29-22.23.50:118][677]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2023.10.29-22.23.50:118][677]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2023.10.29-22.23.50:118][677]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2023.10.29-22.23.50:118][677]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (754)
+[2023.10.29-22.23.50:118][677]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2023.10.29-22.23.50:120][677]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2023.10.29-22.23.50:120][677]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (748)
+[2023.10.29-22.23.50:120][677]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (746)
+[2023.10.29-22.23.50:121][677]LogModuleManager: Shutting down and abandoning module LightMixer (744)
+[2023.10.29-22.23.50:121][677]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (742)
+[2023.10.29-22.23.50:121][677]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (740)
+[2023.10.29-22.23.50:121][677]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (738)
+[2023.10.29-22.23.50:121][677]LogModuleManager: Shutting down and abandoning module CollectionManager (737)
+[2023.10.29-22.23.50:122][677]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (734)
+[2023.10.29-22.23.50:122][677]LogModuleManager: Shutting down and abandoning module ControlRigSpline (732)
+[2023.10.29-22.23.50:123][677]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (730)
+[2023.10.29-22.23.50:123][677]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (728)
+[2023.10.29-22.23.50:123][677]LogModuleManager: Shutting down and abandoning module MediaCompositing (724)
+[2023.10.29-22.23.50:123][677]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (722)
+[2023.10.29-22.23.50:123][677]LogModuleManager: Shutting down and abandoning module MediaPlate (720)
+[2023.10.29-22.23.50:123][677]LogModuleManager: Shutting down and abandoning module ImgMedia (718)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module AlembicImporter (716)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module AlembicLibrary (715)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module TakeSequencer (712)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module TakeMovieScene (710)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (708)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (706)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (704)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (702)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module InterchangeExport (700)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module InterchangeMessages (698)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module GLTFCore (696)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (694)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (692)
+[2023.10.29-22.23.50:124][677]LogModuleManager: Shutting down and abandoning module UVEditorTools (690)
+[2023.10.29-22.23.50:125][677]LogModuleManager: Shutting down and abandoning module UVEditor (688)
+[2023.10.29-22.23.50:125][677]LogModuleManager: Shutting down and abandoning module CurveEditorTools (686)
+[2023.10.29-22.23.50:126][677]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (684)
+[2023.10.29-22.23.50:126][677]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (682)
+[2023.10.29-22.23.50:126][677]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (680)
+[2023.10.29-22.23.50:127][677]LogModuleManager: Shutting down and abandoning module InterchangeEditor (678)
+[2023.10.29-22.23.50:127][677]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (676)
+[2023.10.29-22.23.50:127][677]LogModuleManager: Shutting down and abandoning module PluginBrowser (674)
+[2023.10.29-22.23.50:127][677]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (672)
+[2023.10.29-22.23.50:127][677]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (670)
+[2023.10.29-22.23.50:128][677]LogModuleManager: Shutting down and abandoning module EditorDebugTools (668)
+[2023.10.29-22.23.50:128][677]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (666)
+[2023.10.29-22.23.50:128][677]LogModuleManager: Shutting down and abandoning module GitSourceControl (664)
+[2023.10.29-22.23.50:128][677]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (662)
+[2023.10.29-22.23.50:128][677]LogModuleManager: Shutting down and abandoning module CryptoKeys (660)
+[2023.10.29-22.23.50:128][677]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (658)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module ChangelistReview (656)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (654)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (652)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (650)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module UObjectPlugin (648)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module PluginUtils (646)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (644)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (642)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (640)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (638)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module DumpGPUServices (636)
+[2023.10.29-22.23.50:129][677]LogModuleManager: Shutting down and abandoning module TemplateSequence (634)
+[2023.10.29-22.23.50:130][677]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (632)
+[2023.10.29-22.23.50:130][677]LogModuleManager: Shutting down and abandoning module InterchangeTests (630)
+[2023.10.29-22.23.50:130][677]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (628)
+[2023.10.29-22.23.50:130][677]LogModuleManager: Shutting down and abandoning module SequencerScripting (626)
+[2023.10.29-22.23.50:130][677]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (624)
+[2023.10.29-22.23.50:130][677]LogModuleManager: Shutting down and abandoning module VariantManager (622)
+[2023.10.29-22.23.50:131][677]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (621)
+[2023.10.29-22.23.50:131][677]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (618)
+[2023.10.29-22.23.50:131][677]LogModuleManager: Shutting down and abandoning module SynthesisEditor (616)
+[2023.10.29-22.23.50:131][677]LogModuleManager: Shutting down and abandoning module ResonanceAudio (614)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (612)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (610)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module GooglePAD (608)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (606)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module InputDebugging (604)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (602)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module ModelingOperators (600)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (598)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module ModelingComponents (596)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module GeometryFramework (595)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (592)
+[2023.10.29-22.23.50:132][677]LogModuleManager: Shutting down and abandoning module MeshModelingTools (590)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (588)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module GeometryCache (586)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (584)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (582)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (580)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module DynamicMesh (578)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (576)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module AudioCapture (574)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (573)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module AssetTags (570)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (568)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module AndroidPermission (566)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (564)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module AppleImageUtils (562)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (560)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (558)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (556)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (554)
+[2023.10.29-22.23.50:133][677]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (552)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (550)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (548)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (546)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (544)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module LocalizableMessage (542)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (540)
+[2023.10.29-22.23.50:134][677]LogOpenImageDenoise: OIDN shutting down
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (538)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (536)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (535)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (533)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (530)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module MeshLODToolset (528)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (526)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (524)
+[2023.10.29-22.23.50:134][677]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (522)
+[2023.10.29-22.23.50:135][677]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (520)
+[2023.10.29-22.23.50:135][677]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (518)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (516)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (514)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (512)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module DataflowNodes (510)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (508)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module DataflowEditor (506)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (504)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (500)
+[2023.10.29-22.23.50:136][677]LogModuleManager: Shutting down and abandoning module FractureEditor (498)
+[2023.10.29-22.23.50:137][677]LogModuleManager: Shutting down and abandoning module ChaosNiagara (496)
+[2023.10.29-22.23.50:137][677]LogModuleManager: Shutting down and abandoning module BackChannel (494)
+[2023.10.29-22.23.50:137][677]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (492)
+[2023.10.29-22.23.50:138][677]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2023.10.29-22.23.50:138][677]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2023.10.29-22.23.50:138][677]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (486)
+[2023.10.29-22.23.50:138][677]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (484)
+[2023.10.29-22.23.50:138][677]LogModuleManager: Shutting down and abandoning module Paper2DEditor (482)
+[2023.10.29-22.23.50:139][677]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2023.10.29-22.23.50:139][677]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2023.10.29-22.23.50:139][677]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2023.10.29-22.23.50:139][677]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2023.10.29-22.23.50:139][677]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2023.10.29-22.23.50:139][677]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (470)
+[2023.10.29-22.23.50:139][677]LogModuleManager: Shutting down and abandoning module BlueprintGraph (469)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (466)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module IKRig (464)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (462)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module ControlRig (460)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module Constraints (459)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module AnimationData (456)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (454)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module InterchangePipelines (452)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module InterchangeImport (450)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (448)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module InterchangeNodes (446)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (444)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (442)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module FacialAnimation (440)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module DataValidation (438)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (436)
+[2023.10.29-22.23.50:140][677]LogModuleManager: Shutting down and abandoning module TreeMap (435)
+[2023.10.29-22.23.50:141][677]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (432)
+[2023.10.29-22.23.50:141][677]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (430)
+[2023.10.29-22.23.50:141][677]LogModuleManager: Shutting down and abandoning module AnimationSharing (428)
+[2023.10.29-22.23.50:141][677]LogModuleManager: Shutting down and abandoning module UdpMessaging (426)
+[2023.10.29-22.23.50:242][677]LogModuleManager: Shutting down and abandoning module TcpMessaging (424)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module GameplayCameras (422)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module ActorSequence (420)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module Synthesis (418)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module SignificanceManager (416)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module SoundFields (414)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (412)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (410)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module RigVM (408)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (406)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (404)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (402)
+[2023.10.29-22.23.50:343][677]LogModuleManager: Shutting down and abandoning module MetasoundEditor (400)
+[2023.10.29-22.23.50:344][677]LogModuleManager: Shutting down and abandoning module AudioWidgets (399)
+[2023.10.29-22.23.50:344][677]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (398)
+[2023.10.29-22.23.50:344][677]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (394)
+[2023.10.29-22.23.50:344][677]LogModuleManager: Shutting down and abandoning module MetasoundEngine (392)
+[2023.10.29-22.23.50:344][677]LogModuleManager: Shutting down and abandoning module WaveTable (391)
+[2023.10.29-22.23.50:344][677]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (389)
+[2023.10.29-22.23.50:345][677]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (386)
+[2023.10.29-22.23.50:345][677]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (384)
+[2023.10.29-22.23.50:346][677]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (382)
+[2023.10.29-22.23.50:346][677]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (380)
+[2023.10.29-22.23.50:346][677]LogModuleManager: Shutting down and abandoning module CableComponent (378)
+[2023.10.29-22.23.50:346][677]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (376)
+[2023.10.29-22.23.50:346][677]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (374)
+[2023.10.29-22.23.50:347][677]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (373)
+[2023.10.29-22.23.50:347][677]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2023.10.29-22.23.50:347][677]LogModuleManager: Shutting down and abandoning module StructUtils (368)
+[2023.10.29-22.23.50:347][677]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (366)
+[2023.10.29-22.23.50:392][677]LogModuleManager: Shutting down and abandoning module PBIK (364)
+[2023.10.29-22.23.50:393][677]LogModuleManager: Shutting down and abandoning module FullBodyIK (362)
+[2023.10.29-22.23.50:393][677]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (360)
+[2023.10.29-22.23.50:393][677]LogModuleManager: Shutting down and abandoning module TakeRecorder (359)
+[2023.10.29-22.23.50:393][677]LogModuleManager: Shutting down and abandoning module LevelEditor (357)
+[2023.10.29-22.23.50:395][677]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (356)
+[2023.10.29-22.23.50:395][677]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (354)
+[2023.10.29-22.23.50:396][677]LogModuleManager: Shutting down and abandoning module MainFrame (352)
+[2023.10.29-22.23.50:396][677]LogModuleManager: Shutting down and abandoning module HotReload (351)
+[2023.10.29-22.23.50:396][677]LogModuleManager: Shutting down and abandoning module ChaosCaching (346)
+[2023.10.29-22.23.50:396][677]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (344)
+[2023.10.29-22.23.50:396][677]LogModuleManager: Shutting down and abandoning module Niagara (342)
+[2023.10.29-22.23.50:397][677]LogModuleManager: Shutting down and abandoning module SignalProcessing (341)
+[2023.10.29-22.23.50:397][677]LogModuleManager: Shutting down and abandoning module NiagaraEditor (339)
+[2023.10.29-22.23.50:397][677]LogModuleManager: Shutting down and abandoning module LevelSequence (338)
+[2023.10.29-22.23.50:397][677]LogModuleManager: Shutting down and abandoning module ContentBrowser (336)
+[2023.10.29-22.23.50:397][677]LogModuleManager: Shutting down and abandoning module ToolMenus (335)
+[2023.10.29-22.23.50:397][677]LogModuleManager: Shutting down and abandoning module ContentBrowserData (333)
+[2023.10.29-22.23.50:397][677]LogModuleManager: Shutting down and abandoning module NiagaraCore (328)
+[2023.10.29-22.23.50:397][677]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (326)
+[2023.10.29-22.23.50:398][677]LogModuleManager: Shutting down and abandoning module Paper2D (324)
+[2023.10.29-22.23.50:398][677]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2023.10.29-22.23.50:398][677]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2023.10.29-22.23.50:434][677]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2023.10.29-22.23.50:434][677]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2023.10.29-22.23.50:434][677]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2023.10.29-22.23.50:434][677]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2023.10.29-22.23.50:434][677]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2023.10.29-22.23.50:435][677]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2023.10.29-22.23.50:436][677]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2023.10.29-22.23.50:436][677]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2023.10.29-22.23.50:436][677]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2023.10.29-22.23.50:437][677]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2023.10.29-22.23.50:437][677]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2023.10.29-22.23.50:437][677]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2023.10.29-22.23.50:437][677]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2023.10.29-22.23.50:438][677]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.10.29-22.23.50:438][677]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.10.29-22.23.50:438][677]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2023.10.29-22.23.50:439][677]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.10.29-22.23.50:441][677]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.10.29-22.23.50:441][677]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.10.29-22.23.50:443][677]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2023.10.29-22.23.50:443][677]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2023.10.29-22.23.50:443][677]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2023.10.29-22.23.50:443][677]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2023.10.29-22.23.50:443][677]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2023.10.29-22.23.50:443][677]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2023.10.29-22.23.50:443][677]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2023.10.29-22.23.50:443][677]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2023.10.29-22.23.50:451][677]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2023.10.29-22.23.50:451][677]LogModuleManager: Shutting down and abandoning module Core (244)
+[2023.10.29-22.23.50:451][677]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2023.10.29-22.23.50:451][677]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2023.10.29-22.23.50:453][677]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2023.10.29-22.23.50:453][677]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2023.10.29-22.23.50:455][677]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2023.10.29-22.23.50:455][677]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2023.10.29-22.23.50:455][677]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2023.10.29-22.23.50:455][677]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2023.10.29-22.23.50:456][677]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2023.10.29-22.23.50:456][677]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2023.10.29-22.23.50:456][677]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2023.10.29-22.23.50:456][677]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2023.10.29-22.23.50:456][677]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2023.10.29-22.23.50:456][677]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2023.10.29-22.23.50:456][677]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2023.10.29-22.23.50:460][677]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2023.10.29-22.23.50:460][677]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2023.10.29-22.23.50:460][677]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2023.10.29-22.23.50:472][677]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2023.10.29-22.23.50:472][677]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2023.10.29-22.23.50:472][677]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2023.10.29-22.23.50:472][677]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2023.10.29-22.23.50:480][677]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2023.10.29-22.23.50:480][677]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2023.10.29-22.23.50:481][677]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2023.10.29-22.23.50:482][677]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2023.10.29-22.23.50:483][677]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2023.10.29-22.23.50:483][677]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2023.10.29-22.23.50:484][677]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2023.10.29-22.23.50:484][677]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2023.10.29-22.23.50:484][677]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2023.10.29-22.23.50:484][677]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2023.10.29-22.23.50:484][677]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2023.10.29-22.23.50:484][677]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2023.10.29-22.23.50:486][677]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2023.10.29-22.23.50:486][677]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2023.10.29-22.23.50:486][677]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2023.10.29-22.23.50:486][677]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2023.10.29-22.23.50:486][677]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2023.10.29-22.23.50:487][677]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2023.10.29-22.23.50:487][677]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2023.10.29-22.23.50:487][677]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2023.10.29-22.23.50:487][677]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2023.10.29-22.23.50:487][677]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2023.10.29-22.23.50:487][677]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2023.10.29-22.23.50:487][677]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2023.10.29-22.23.50:487][677]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2023.10.29-22.23.50:488][677]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2023.10.29-22.23.50:488][677]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2023.10.29-22.23.50:488][677]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2023.10.29-22.23.50:488][677]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2023.10.29-22.23.50:488][677]LogModuleManager: Shutting down and abandoning module ACLPlugin (122)
+[2023.10.29-22.23.50:488][677]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (120)
+[2023.10.29-22.23.50:488][677]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (118)
+[2023.10.29-22.23.50:488][677]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (116)
+[2023.10.29-22.23.50:492][677]LogModuleManager: Shutting down and abandoning module XMPP (111)
+[2023.10.29-22.23.50:492][677]LogModuleManager: Shutting down and abandoning module WebSockets (110)
+[2023.10.29-22.23.50:526][677]LogModuleManager: Shutting down and abandoning module HTTP (107)
+[2023.10.29-22.23.50:526][677]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2023.10.29-22.23.50:526][677]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B603BB977-4486-82FD-B31B-5DB2902B121F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=4c55455246856e4613c2c9a5af7a4e79%7Cc9d9c2bb5bff45948e7ec73fa7f9e441%7Cad3e873c-8b3c-4d72-a87f-6874ef5da51a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.10.29-22.23.50:553][677]LogModuleManager: Shutting down and abandoning module SSL (106)
+[2023.10.29-22.23.50:557][677]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (102)
+[2023.10.29-22.23.50:557][677]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (100)
+[2023.10.29-22.23.50:557][677]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (98)
+[2023.10.29-22.23.50:557][677]LogModuleManager: Shutting down and abandoning module WmfMedia (96)
+[2023.10.29-22.23.50:564][677]LogModuleManager: Shutting down and abandoning module Media (95)
+[2023.10.29-22.23.50:566][677]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (92)
+[2023.10.29-22.23.50:566][677]LogModuleManager: Shutting down and abandoning module PixWinPlugin (90)
+[2023.10.29-22.23.50:566][677]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (88)
+[2023.10.29-22.23.50:566][677]RenderDocPlugin: plugin has been unloaded.
+[2023.10.29-22.23.50:566][677]LogModuleManager: Shutting down and abandoning module VariantManagerContent (86)
+[2023.10.29-22.23.50:566][677]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2023.10.29-22.23.50:566][677]LogModuleManager: Shutting down and abandoning module GLTFExporter (82)
+[2023.10.29-22.23.50:566][677]LogModuleManager: Shutting down and abandoning module DatasmithContent (80)
+[2023.10.29-22.23.50:567][677]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (78)
+[2023.10.29-22.23.50:567][677]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2023.10.29-22.23.50:567][677]LogModuleManager: Shutting down and abandoning module ChunkDownloader (74)
+[2023.10.29-22.23.50:567][677]LogModuleManager: Shutting down and abandoning module ChaosCloth (72)
+[2023.10.29-22.23.50:568][677]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2023.10.29-22.23.50:568][677]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2023.10.29-22.23.50:568][677]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2023.10.29-22.23.50:568][677]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2023.10.29-22.23.50:568][677]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (62)
+[2023.10.29-22.23.50:569][677]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (60)
+[2023.10.29-22.23.50:570][677]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2023.10.29-22.23.50:570][677]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.10.29-22.23.50:570][677]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.10.29-22.23.50:570][677]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.10.29-22.23.50:570][677]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.10.29-22.23.50:570][677]LogModuleManager: Shutting down and abandoning module FastBuildController (48)
+[2023.10.29-22.23.50:571][677]LogModuleManager: Shutting down and abandoning module XGEController (46)
+[2023.10.29-22.23.50:571][677]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2023.10.29-22.23.50:571][677]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2023.10.29-22.23.50:572][677]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2023.10.29-22.23.50:573][677]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2023.10.29-22.23.50:574][677]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2023.10.29-22.23.50:574][677]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2023.10.29-22.23.50:574][677]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.10.29-22.23.50:574][677]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2023.10.29-22.23.50:574][677]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.10.29-22.23.50:574][677]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.10.29-22.23.50:574][677]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.10.29-22.23.50:577][677]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.10.29-22.23.50:577][677]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.10.29-22.23.50:578][677]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.10.29-22.23.50:578][677]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.10.29-22.23.50:578][677]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.10.29-22.23.50:578][677]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.10.29-22.23.50:580][677]LogPakFile: Destroying PakPlatformFile
+[2023.10.29-22.23.50:580][677]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.10.29-22.23.50:580][677]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.10.29-22.23.50:580][677]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.10.29-22.23.50:580][677]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.10.29-22.23.50:580][677]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.10.29-22.23.50:716][677]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.10.29-22.23.50:792][677]LogExit: Exiting.
+[2023.10.29-22.23.50:796][677]Log file closed, 10/29/23 18:23:50
