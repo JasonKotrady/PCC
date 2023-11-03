@@ -1301,3 +1301,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.03-02.58.26:317][554]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
 [2023.11.03-02.58.26:317][554]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
 [2023.11.03-02.59.46:412][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.11.03-03.00.20:023][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.11.03-03.04.09:111][832]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.03-03.04.09:119][832]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.03-03.04.09:129][833]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.03-03.04.14:149][134]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2023.11.03-03.04.14:149][134]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.03-03.04.20:836][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
