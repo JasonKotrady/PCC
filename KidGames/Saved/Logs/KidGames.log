@@ -1691,3 +1691,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.03-02.15.04:072][ 94]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/StaticMesh/SM_Cards/SM_Card_005.SM_Card_005
 [2023.11.03-02.17.22:075][901]LogSlate: Window 'Message Log' being destroyed
 [2023.11.03-02.17.22:082][901]LogSlate: Window 'Message Log' being destroyed
+[2023.11.03-02.29.18:007][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
