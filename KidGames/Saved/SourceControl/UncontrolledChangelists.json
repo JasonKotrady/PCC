@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/StaticMesh/SM_Cards/SM_Card_001.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/StaticMesh/SM_Cards/SM_Card_002.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/StaticMesh/SM_Cards/SM_Card_003.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/StaticMesh/SM_Cards/SM_Card_004.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/StaticMesh/SM_Cards/SM_Card_005.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Materials/SurfaceBlend_MasterMaterial_2.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Materials/Standard_MasterMaterial_2.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Shan_DungeonAssets/Materials/Masterials/Standard_MasterMaterial_2.uasset",
+				"C:/Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Shan_DungeonAssets/Materials/Masterials/SurfaceBlend_MasterMaterial_2.uasset"
+=======
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGame_HLOD0_Instancing.uasset",
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/5/2C/TJ3FOIJ8UP4VU6JHL1PL0U.uasset",
@@ -136,12 +148,8 @@
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/4/3Q/KM52HTDLY7H9TVAF4LRPZV.uasset",
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/D/67/9OXV40SVT2VEY93MZ6FFWL.uasset",
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MathGame/8/XS/41W6WB299192PFVDGB1C9F.uasset",
-				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGame.umap",
-				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGameUI/MathGameTitle.uasset",
-				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGameUI/MathProblemPage.uasset",
-				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGameUI/GameTitle.uasset",
-				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGameUI/MathGame.uasset",
-				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGameUI/Game.uasset"
+				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MathGame.umap"
+>>>>>>> main
 			]
 		}
 	]
