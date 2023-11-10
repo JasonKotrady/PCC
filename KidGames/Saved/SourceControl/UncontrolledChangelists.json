@@ -161,7 +161,12 @@
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MatchGame/3/TF/OXPKYLU31PVD4P695BCZNG.uasset",
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/__ExternalActors__/MatchGame/6/TQ/LAD33VT6932LK25LZYEOV2.uasset",
 				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MatchGame/MatchGame.umap",
-				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MatchGame/Card.uasset"
+				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MatchGame/Card.uasset",
+				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MatchGame/CameraPawn.uasset",
+				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MatchGame/CameraController.uasset",
+				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MatchGame/CameraRules.uasset",
+				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MatchGame/Mouse_FlipController.uasset",
+				"C:/Users/carda/OneDrive/Documents/GitHub/PCC/KidGames/Content/MatchGame/MatchGameRules.uasset"
 			]
 		}
 	]
