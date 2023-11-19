@@ -5936,3 +5936,17 @@ Script Stack (0 frames) :
 [2023.11.19-04.06.48:777][215]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/MatchGame_Auto8530C7610495B06C94DFD1BACC6C7DC78.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/Autosaves/Game/MatchGame/MatchGame_Auto8.umap'
 [2023.11.19-04.06.48:796][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.136
 [2023.11.19-04.06.48:796][215]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.136
+[2023.11.19-04.08.57:022][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.11.19-04.08.57:025][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.19-04.08.57:112][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatchGame/MatchGame" FILE="../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/MatchGame/MatchGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.19-04.08.57:124][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-04.08.57:230][ 98]LogSavePackage: Moving output files for package: /Game/MatchGame/MatchGame
+[2023.11.19-04.08.57:230][ 98]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/MatchGameDC87C5304D4C9709ABCD099FB0CD8A91.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/MatchGame/MatchGame.umap'
+[2023.11.19-04.08.57:242][ 98]LogFileHelpers: Saving map 'MatchGame' took 0.131
+[2023.11.19-04.08.57:271][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 246 ms (total: 1.67 sec)
+[2023.11.19-04.08.57:275][ 98]AssetCheck: New page: Asset Save: MatchGame
+[2023.11.19-04.08.57:275][ 98]LogContentValidation: Display: Validating /Script/Engine.World /Game/MatchGame/MatchGame.MatchGame
+[2023.11.19-04.18.57:219][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.11.19-04.18.57:220][ 62]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-04.28.57:411][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.19-04.28.57:411][ 75]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
