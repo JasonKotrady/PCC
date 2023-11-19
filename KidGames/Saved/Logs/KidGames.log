@@ -6204,3 +6204,408 @@ Script Stack (0 frames) :
 [2023.11.19-17.03.09:937][151]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.013
 [2023.11.19-17.13.10:644][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2023.11.19-17.13.10:644][953]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-17.23.11:172][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.19-17.23.11:172][754]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-17.33.11:865][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.19-17.33.11:866][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.019
+[2023.11.19-17.43.12:338][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.19-17.43.12:339][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.017
+[2023.11.19-17.46.03:436][866]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.540 and deleted 0 files with total size 0 MiB. Scanned 24056 files in 22898 folders with total size 6996 MiB.
+[2023.11.19-17.53.12:917][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.19-17.53.12:918][153]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.014
+[2023.11.19-18.03.13:411][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.19-18.03.13:411][954]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.018
+[2023.11.19-18.13.13:946][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.19-18.13.13:948][755]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.016
+[2023.11.19-18.23.14:462][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.19-18.23.14:463][556]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.016
+[2023.11.19-18.33.14:809][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.11.19-18.33.14:809][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.015
+[2023.11.19-18.43.15:352][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.11.19-18.43.15:353][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.017
+[2023.11.19-18.46.03:743][663]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.843 and deleted 0 files with total size 0 MiB. Scanned 24056 files in 22898 folders with total size 6996 MiB.
+[2023.11.19-18.53.15:804][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.11.19-18.53.15:805][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.014
+[2023.11.19-19.03.16:318][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.19-19.03.16:319][759]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.013
+[2023.11.19-19.13.16:821][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.19-19.13.16:822][560]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.013
+[2023.11.19-19.23.17:488][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.19-19.23.17:490][361]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.020
+[2023.11.19-19.33.17:852][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.19-19.33.17:854][443]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.014
+[2023.11.19-19.43.18:715][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.11.19-19.43.18:718][245]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.017
+[2023.11.19-19.46.03:120][739]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.215 and deleted 0 files with total size 0 MiB. Scanned 24056 files in 22898 folders with total size 6996 MiB.
+[2023.11.19-19.53.19:138][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.11.19-19.53.19:138][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.015
+[2023.11.19-20.03.19:604][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.11.19-20.03.19:604][838]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.014
+[2023.11.19-20.10.09:800][211]LogViewport: Scene viewport resized to 952x815, mode Windowed.
+[2023.11.19-20.11.42:535][438]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2023.11.19-20.11.42:567][438]LogInterchangeEngine: [Pending] Importing
+[2023.11.19-20.11.42:731][439]LogInterchangeEngine: [Pending] Importing
+[2023.11.19-20.11.42:758][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:764][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:764][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:764][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:764][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:764][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:764][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:765][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:767][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:768][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][439]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:769][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:770][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:771][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:773][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:773][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:773][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:773][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:773][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:773][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:773][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:797][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:797][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:797][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:797][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:797][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:797][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:798][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:798][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:798][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:798][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:798][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:798][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.42:798][440]LogTemp: Warning: Unknown keyword: s
+[2023.11.19-20.11.43:355][454]LogStaticMesh: Display: Building static mesh SM_Card001...
+[2023.11.19-20.11.43:370][454]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.11.43:449][455]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.11.47:604][658]LogStaticMesh: Built static mesh [4.25s] /Game/StaticMesh/SM_Cards/SM_Card001.SM_Card001
+[2023.11.19-20.11.49:015][740]LogMeshUtilities: Finished distance field build in 1.2s - 126x56x126 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 82% occupied, 25600 triangles, SM_Card001
+[2023.11.19-20.11.49:289][746]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StaticMesh/SM_Cards/SM_Card001.SM_Card001
+[2023.11.19-20.11.49:524][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.19-20.11.50:379][746]LogViewport: Scene viewport resized to 1304x740, mode Windowed.
+[2023.11.19-20.12.08:760][828]LogSlate: Window 'SM_Card001' being destroyed
+[2023.11.19-20.12.08:767][828]LogSlate: Window 'SM_Card001' being destroyed
+[2023.11.19-20.12.08:850][828]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.11.19-20.12.08:853][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.19-20.12.22:818][653]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.19-20.12.22:833][653]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.19-20.12.22:862][655]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.19-20.12.30:694][125]LogContentBrowser: Attempting asset rename: NewFolder -> T_Card_Bear
+[2023.11.19-20.12.30:699][125]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.19-20.12.40:957][421]LogInterchangeEngine: [Pending] Importing
+[2023.11.19-20.12.40:958][421]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.12.40:958][421]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.12.40:958][421]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.12.40:958][421]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.12.40:958][421]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.11.19-20.12.40:983][422]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.11.19-20.12.41:017][422]LogTexture: Display: Building textures: /Game/Textures/T_Card_Bear/T_Card_Bear_Metallic.T_Card_Bear_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.12.41:024][422]LogTexture: Display: Building textures: /Game/Textures/T_Card_Bear/T_Card_Bear_Roughness.T_Card_Bear_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.12.41:044][422]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.11.19-20.12.41:045][422]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.12.41:045][422]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.12.41:045][422]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.12.41:045][422]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.12.41:045][422]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.11.19-20.12.41:045][422]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.12.41:057][422]LogTexture: Display: Building textures: /Game/Textures/T_Card_Bear/T_Card_Bear_Emissive.T_Card_Bear_Emissive (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.12.41:058][422]LogTexture: Display: Building textures: /Game/Textures/T_Card_Bear/T_Card_Bear_Height.T_Card_Bear_Height (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.12.41:080][422]LogTexture: Display: Building textures: /Game/Textures/T_Card_Bear/T_Card_Bear_Normal.T_Card_Bear_Normal (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.12.41:084][422]LogTexture: Display: Building textures: /Game/Textures/T_Card_Bear/T_Card_Bear_BaseColor.T_Card_Bear_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.12.41:184][423]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.12.41:226][423]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.11.19-20.12.41:228][423]LogTexture: Display: Building textures: /Game/Textures/T_Card_Bear/T_Card_Bear_Normal.T_Card_Bear_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.11.19-20.12.48:191][787]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.19-20.12.48:200][787]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.19-20.12.48:206][788]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.19-20.12.57:307][333]LogContentBrowser: Attempting asset rename: NewFolder -> T_Card_Elephant
+[2023.11.19-20.12.57:310][333]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.19-20.13.11:684][790]LogInterchangeEngine: [Pending] Importing
+[2023.11.19-20.13.11:684][790]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.13.11:684][790]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.13.11:684][790]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.13.11:684][790]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.13.11:684][790]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.11.19-20.13.11:695][791]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.11.19-20.13.11:695][791]LogTexture: Display: Building textures: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Metallic.T_Card_Elephant_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.11:699][791]LogTexture: Display: Building textures: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Roughness.T_Card_Elephant_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.11:710][791]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.13.11:710][791]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.13.11:710][791]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.13.11:710][791]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.13.11:720][791]LogTexture: Display: Building textures: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Height.T_Card_Elephant_Height (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.11:724][791]LogTexture: Display: Building textures: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Emissive.T_Card_Elephant_Emissive (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.11:744][791]LogTexture: Display: Building textures: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Normal.T_Card_Elephant_Normal (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.11:748][791]LogTexture: Display: Building textures: /Game/Textures/T_Card_Elephant/T_Card_Elephant_BaseColor.T_Card_Elephant_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.11:776][791]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.13.11:777][791]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.11.19-20.13.11:777][791]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.13.11:900][791]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.11.19-20.13.11:903][791]LogTexture: Display: Building textures: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Normal.T_Card_Elephant_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.12:061][792]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.13.15:640][965]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.19-20.13.15:650][965]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.19-20.13.15:656][966]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.19-20.13.24:611][502]LogContentBrowser: Attempting asset rename: NewFolder -> T_Card_Lion
+[2023.11.19-20.13.24:611][502]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.19-20.13.34:047][706]LogInterchangeEngine: [Pending] Importing
+[2023.11.19-20.13.34:047][706]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.13.34:047][706]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.13.34:047][706]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.13.34:047][706]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.13.34:047][706]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.11.19-20.13.34:058][707]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.11.19-20.13.34:059][707]LogTexture: Display: Building textures: /Game/Textures/T_Card_Lion/T_Card_Lion_Metallic.T_Card_Lion_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.34:063][707]LogTexture: Display: Building textures: /Game/Textures/T_Card_Lion/T_Card_Lion_Roughness.T_Card_Lion_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.34:071][707]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.13.34:081][707]LogTexture: Display: Building textures: /Game/Textures/T_Card_Lion/T_Card_Lion_Height.T_Card_Lion_Height (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.34:087][707]LogTexture: Display: Building textures: /Game/Textures/T_Card_Lion/T_Card_Lion_Emissive.T_Card_Lion_Emissive (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.34:108][707]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.13.34:108][707]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.13.34:108][707]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.13.34:112][707]LogTexture: Display: Building textures: /Game/Textures/T_Card_Lion/T_Card_Lion_Normal.T_Card_Lion_Normal (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.34:116][707]LogTexture: Display: Building textures: /Game/Textures/T_Card_Lion/T_Card_Lion_BaseColor.T_Card_Lion_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.34:143][707]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.13.34:144][707]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.11.19-20.13.34:144][707]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.13.34:268][707]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.11.19-20.13.34:271][707]LogTexture: Display: Building textures: /Game/Textures/T_Card_Lion/T_Card_Lion_Normal.T_Card_Lion_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.34:428][708]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.13.37:290][842]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.19-20.13.37:301][842]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.19-20.13.37:308][843]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.19-20.13.44:754][284]LogContentBrowser: Attempting asset rename: NewFolder -> T_Card_Monkey
+[2023.11.19-20.13.44:758][284]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.19-20.13.56:564][653]LogInterchangeEngine: [Pending] Importing
+[2023.11.19-20.13.56:564][653]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.13.56:565][653]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.13.56:565][653]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.13.56:565][653]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.13.56:565][653]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.11.19-20.13.56:574][654]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.11.19-20.13.56:575][654]LogTexture: Display: Building textures: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Roughness.T_Card_Monkey_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.56:578][654]LogTexture: Display: Building textures: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Metallic.T_Card_Monkey_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.56:588][654]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.13.56:588][654]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.13.56:588][654]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.13.56:588][654]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.13.56:594][654]LogTexture: Display: Building textures: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Height.T_Card_Monkey_Height (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.56:595][654]LogTexture: Display: Building textures: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Emissive.T_Card_Monkey_Emissive (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.56:613][654]LogTexture: Display: Building textures: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Normal.T_Card_Monkey_Normal (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.56:623][654]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.11.19-20.13.56:628][654]LogTexture: Display: Building textures: /Game/Textures/T_Card_Monkey/T_Card_Monkey_BaseColor.T_Card_Monkey_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.56:655][654]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.11.19-20.13.56:655][654]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.13.56:781][654]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.11.19-20.13.56:786][654]LogTexture: Display: Building textures: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Normal.T_Card_Monkey_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.11.19-20.13.56:963][655]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.14.00:814][850]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.19-20.14.00:832][850]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.19-20.14.00:838][851]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.19-20.14.18:675][918]LogContentBrowser: Attempting asset rename: NewFolder -> T_Card_Parrot
+[2023.11.19-20.14.18:677][918]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.19-20.14.29:925][159]LogInterchangeEngine: [Pending] Importing
+[2023.11.19-20.14.29:928][159]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.14.29:928][159]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.14.29:929][159]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.14.29:929][159]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.14.29:929][159]LogInterchangeEngine: [Pending] Importing -  (6)
+[2023.11.19-20.14.29:937][160]LogTexture: Display: Building textures: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Roughness.T_Card_Parrot_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.14.29:937][160]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.11.19-20.14.29:942][160]LogTexture: Display: Building textures: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Metallic.T_Card_Parrot_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.14.29:947][160]LogTexture: Display: Building textures: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Height.T_Card_Parrot_Height (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.14.29:950][160]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.11.19-20.14.29:950][160]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.11.19-20.14.29:950][160]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.11.19-20.14.29:950][160]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.14.29:954][160]LogTexture: Display: Building textures: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Emissive.T_Card_Parrot_Emissive (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.14.29:987][160]LogTexture: Display: Building textures: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Normal.T_Card_Parrot_Normal (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.14.29:991][160]LogTexture: Display: Building textures: /Game/Textures/T_Card_Parrot/T_Card_Parrot_BaseColor.T_Card_Parrot_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.11.19-20.14.30:015][160]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.11.19-20.14.30:017][160]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.11.19-20.14.30:017][160]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.14.30:148][160]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.11.19-20.14.30:154][160]LogTexture: Display: Building textures: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Normal.T_Card_Parrot_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.11.19-20.14.30:300][161]LogInterchangeEngine: [Success] Import Done
+[2023.11.19-20.14.41:215][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.19-20.14.42:694][761]LogSlate: Window 'Save Content' being destroyed
+[2023.11.19-20.14.42:710][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.19-20.14.42:795][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatchGame/MatchGame" FILE="../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/MatchGame/MatchGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.19-20.14.42:808][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.11.19-20.14.43:027][761]LogSavePackage: Moving output files for package: /Game/MatchGame/MatchGame
+[2023.11.19-20.14.43:027][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/MatchGame60ABBC804ABC6A0F6EF6B7A1CDB211D2.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/MatchGame/MatchGame.umap'
+[2023.11.19-20.14.43:097][761]LogFileHelpers: Saving map 'MatchGame' took 0.307
+[2023.11.19-20.14.43:147][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMesh/SM_Cards/SM_Card001" FILE="../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/StaticMesh/SM_Cards/SM_Card001.uasset" SILENT=true
+[2023.11.19-20.14.43:184][761]LogSavePackage: Moving output files for package: /Game/StaticMesh/SM_Cards/SM_Card001
+[2023.11.19-20.14.43:184][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/SM_Card001F92EFDB048F3B4C94FB4A4A2B8A192CF.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/StaticMesh/SM_Cards/SM_Card001.uasset'
+[2023.11.19-20.14.43:256][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Bear/T_Card_Bear_BaseColor
+[2023.11.19-20.14.43:256][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Bear_BaseColorE69906C94A7C7836B2697AA0C3D3C6A8.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Bear/T_Card_Bear_BaseColor.uasset'
+[2023.11.19-20.14.43:265][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Bear/T_Card_Bear_Emissive
+[2023.11.19-20.14.43:265][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Bear_EmissiveF5B81CF14B8452233ACE149154B60D43.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Bear/T_Card_Bear_Emissive.uasset'
+[2023.11.19-20.14.43:277][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Bear/T_Card_Bear_Height
+[2023.11.19-20.14.43:277][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Bear_Height5103394A457968AE4B7E3C89E63CD6A4.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Bear/T_Card_Bear_Height.uasset'
+[2023.11.19-20.14.43:284][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Bear/T_Card_Bear_Metallic
+[2023.11.19-20.14.43:284][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Bear_Metallic3434CB17495F30BE635070BF77C3782A.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Bear/T_Card_Bear_Metallic.uasset'
+[2023.11.19-20.14.43:320][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Bear/T_Card_Bear_Normal
+[2023.11.19-20.14.43:321][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Bear_NormalF3FE176047F05BFF5DC5FBB0BAA27DA3.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Bear/T_Card_Bear_Normal.uasset'
+[2023.11.19-20.14.43:331][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Bear/T_Card_Bear_Roughness
+[2023.11.19-20.14.43:331][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Bear_Roughness6F26F53E4AA9F71BC718EEA8185E7225.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Bear/T_Card_Bear_Roughness.uasset'
+[2023.11.19-20.14.43:361][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Elephant/T_Card_Elephant_BaseColor
+[2023.11.19-20.14.43:361][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Elephant_BaseColorC3A9967F47D15AE90F86EDAB8645F8A6.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Elephant/T_Card_Elephant_BaseColor.uasset'
+[2023.11.19-20.14.43:368][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Emissive
+[2023.11.19-20.14.43:368][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Elephant_EmissiveD1B89D504C2D5B5974CF3E9573441188.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Elephant/T_Card_Elephant_Emissive.uasset'
+[2023.11.19-20.14.43:378][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Height
+[2023.11.19-20.14.43:378][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Elephant_Height952C034344FEE36C8947D19FC491F864.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Elephant/T_Card_Elephant_Height.uasset'
+[2023.11.19-20.14.43:390][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Metallic
+[2023.11.19-20.14.43:390][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Elephant_Metallic3ED62DD747245A2668A181987CC3B69D.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Elephant/T_Card_Elephant_Metallic.uasset'
+[2023.11.19-20.14.43:434][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Normal
+[2023.11.19-20.14.43:434][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Elephant_NormalE4C4DE3C4F1472412B2A43A9A638F29C.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Elephant/T_Card_Elephant_Normal.uasset'
+[2023.11.19-20.14.43:442][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Elephant/T_Card_Elephant_Roughness
+[2023.11.19-20.14.43:442][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Elephant_RoughnessE39685854F617D9B1ADDB8BB53859015.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Elephant/T_Card_Elephant_Roughness.uasset'
+[2023.11.19-20.14.43:487][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Lion/T_Card_Lion_BaseColor
+[2023.11.19-20.14.43:487][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Lion_BaseColorA95E25024EB5BFF0ACCF5D909709FB1F.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Lion/T_Card_Lion_BaseColor.uasset'
+[2023.11.19-20.14.43:494][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Lion/T_Card_Lion_Emissive
+[2023.11.19-20.14.43:494][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Lion_EmissiveDD33D86445BADEBEE7575BA00383641C.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Lion/T_Card_Lion_Emissive.uasset'
+[2023.11.19-20.14.43:503][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Lion/T_Card_Lion_Height
+[2023.11.19-20.14.43:503][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Lion_Height71607E0A438FEFCF0AC750A469EB281B.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Lion/T_Card_Lion_Height.uasset'
+[2023.11.19-20.14.43:510][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Lion/T_Card_Lion_Metallic
+[2023.11.19-20.14.43:510][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Lion_MetallicD144ED6D499F92F3F839E4AB339418FA.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Lion/T_Card_Lion_Metallic.uasset'
+[2023.11.19-20.14.43:538][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Lion/T_Card_Lion_Normal
+[2023.11.19-20.14.43:538][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Lion_Normal325A8BBA44DACC1DDD8114A1AE240273.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Lion/T_Card_Lion_Normal.uasset'
+[2023.11.19-20.14.43:545][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Lion/T_Card_Lion_Roughness
+[2023.11.19-20.14.43:545][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Lion_RoughnessAABBB9B2468D96696667AABA3E8CABFB.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Lion/T_Card_Lion_Roughness.uasset'
+[2023.11.19-20.14.43:568][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Monkey/T_Card_Monkey_BaseColor
+[2023.11.19-20.14.43:568][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Monkey_BaseColor80F98CBD4CD20571E4F10E91C0C41299.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Monkey/T_Card_Monkey_BaseColor.uasset'
+[2023.11.19-20.14.43:575][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Emissive
+[2023.11.19-20.14.43:575][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Monkey_EmissiveA6D3EFFA4DAB63B430A2A1BB52C4D78D.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Monkey/T_Card_Monkey_Emissive.uasset'
+[2023.11.19-20.14.43:586][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Height
+[2023.11.19-20.14.43:586][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Monkey_Height23D0156F4ACF079DE9F9C7BE5F143D01.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Monkey/T_Card_Monkey_Height.uasset'
+[2023.11.19-20.14.43:594][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Metallic
+[2023.11.19-20.14.43:594][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Monkey_Metallic4F7B2F61400D88DC17BE81A807D8FCC7.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Monkey/T_Card_Monkey_Metallic.uasset'
+[2023.11.19-20.14.43:615][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Normal
+[2023.11.19-20.14.43:615][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Monkey_Normal82487C8E46CA8B78822056830F0627B0.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Monkey/T_Card_Monkey_Normal.uasset'
+[2023.11.19-20.14.43:623][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Monkey/T_Card_Monkey_Roughness
+[2023.11.19-20.14.43:623][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Monkey_Roughness108526124788F1882C9F7B936FEC9B90.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Monkey/T_Card_Monkey_Roughness.uasset'
+[2023.11.19-20.14.43:649][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Parrot/T_Card_Parrot_BaseColor
+[2023.11.19-20.14.43:649][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Parrot_BaseColor4C1EAB9D411885D6355929B7CEC4D12D.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Parrot/T_Card_Parrot_BaseColor.uasset'
+[2023.11.19-20.14.43:655][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Emissive
+[2023.11.19-20.14.43:655][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Parrot_Emissive28D2A9A542A9D1608A5C1AACDDA52FFD.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Parrot/T_Card_Parrot_Emissive.uasset'
+[2023.11.19-20.14.43:666][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Height
+[2023.11.19-20.14.43:666][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Parrot_Height4C2FFD5142EA9AB804DFF19AFE7EC7AD.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Parrot/T_Card_Parrot_Height.uasset'
+[2023.11.19-20.14.43:673][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Metallic
+[2023.11.19-20.14.43:673][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Parrot_Metallic74C92B9F4A0EDCFB57EA53B43F89E5FC.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Parrot/T_Card_Parrot_Metallic.uasset'
+[2023.11.19-20.14.43:694][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Normal
+[2023.11.19-20.14.43:694][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Parrot_NormalC15ED6D44D55FE4CE9CD7A934D780207.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Parrot/T_Card_Parrot_Normal.uasset'
+[2023.11.19-20.14.43:701][761]LogSavePackage: Moving output files for package: /Game/Textures/T_Card_Parrot/T_Card_Parrot_Roughness
+[2023.11.19-20.14.43:701][761]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/T_Card_Parrot_RoughnessFB4FD9DF4B747646547E62A03162607D.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/Textures/T_Card_Parrot/T_Card_Parrot_Roughness.uasset'
+[2023.11.19-20.14.43:711][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 2.94 sec)
+[2023.11.19-20.14.43:737][761]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.World /Game/MatchGame/MatchGame.MatchGame
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/StaticMesh/SM_Cards/SM_Card001.SM_Card001
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Bear/T_Card_Bear_Height.T_Card_Bear_Height
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Bear/T_Card_Bear_Emissive.T_Card_Bear_Emissive
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Bear/T_Card_Bear_Normal.T_Card_Bear_Normal
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Bear/T_Card_Bear_BaseColor.T_Card_Bear_BaseColor
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Bear/T_Card_Bear_Metallic.T_Card_Bear_Metallic
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Bear/T_Card_Bear_Roughness.T_Card_Bear_Roughness
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Elephant/T_Card_Elephant_BaseColor.T_Card_Elephant_BaseColor
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Elephant/T_Card_Elephant_Height.T_Card_Elephant_Height
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Elephant/T_Card_Elephant_Emissive.T_Card_Elephant_Emissive
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Elephant/T_Card_Elephant_Metallic.T_Card_Elephant_Metallic
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Elephant/T_Card_Elephant_Normal.T_Card_Elephant_Normal
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Elephant/T_Card_Elephant_Roughness.T_Card_Elephant_Roughness
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Lion/T_Card_Lion_BaseColor.T_Card_Lion_BaseColor
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Lion/T_Card_Lion_Height.T_Card_Lion_Height
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Lion/T_Card_Lion_Metallic.T_Card_Lion_Metallic
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Lion/T_Card_Lion_Normal.T_Card_Lion_Normal
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Lion/T_Card_Lion_Roughness.T_Card_Lion_Roughness
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Lion/T_Card_Lion_Emissive.T_Card_Lion_Emissive
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Monkey/T_Card_Monkey_BaseColor.T_Card_Monkey_BaseColor
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Monkey/T_Card_Monkey_Height.T_Card_Monkey_Height
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Monkey/T_Card_Monkey_Emissive.T_Card_Monkey_Emissive
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Monkey/T_Card_Monkey_Metallic.T_Card_Monkey_Metallic
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Monkey/T_Card_Monkey_Normal.T_Card_Monkey_Normal
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Monkey/T_Card_Monkey_Roughness.T_Card_Monkey_Roughness
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Parrot/T_Card_Parrot_BaseColor.T_Card_Parrot_BaseColor
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Parrot/T_Card_Parrot_Emissive.T_Card_Parrot_Emissive
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Parrot/T_Card_Parrot_Height.T_Card_Parrot_Height
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Parrot/T_Card_Parrot_Metallic.T_Card_Parrot_Metallic
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Parrot/T_Card_Parrot_Normal.T_Card_Parrot_Normal
+[2023.11.19-20.14.43:738][761]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_Card_Parrot/T_Card_Parrot_Roughness.T_Card_Parrot_Roughness
