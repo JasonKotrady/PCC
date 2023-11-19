@@ -6034,3 +6034,120 @@ Script Stack (0 frames) :
 [2023.11.19-06.52.19:728][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 1.94 sec)
 [2023.11.19-06.52.19:809][440]AssetCheck: New page: Asset Save: MatchGame
 [2023.11.19-06.52.19:809][440]LogContentValidation: Display: Validating /Script/Engine.World /Game/MatchGame/MatchGame.MatchGame
+[2023.11.19-07.02.19:892][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.11.19-07.02.19:894][302]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-07.12.20:411][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.19-07.12.20:412][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-07.22.21:101][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.11.19-07.22.21:101][904]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-07.32.21:424][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.19-07.32.21:425][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-07.42.21:921][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.19-07.42.21:922][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.015
+[2023.11.19-07.46.02:629][169]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.741 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-07.52.22:373][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.19-07.52.22:373][304]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.017
+[2023.11.19-08.02.22:814][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-08.02.22:815][105]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-08.12.23:304][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-08.12.23:304][906]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-08.22.23:779][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-08.22.23:780][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-08.32.24:426][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.19-08.32.24:428][508]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-08.42.24:824][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.19-08.42.24:825][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-08.46.02:938][964]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.048 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-08.52.25:345][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-08.52.25:346][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.013
+[2023.11.19-09.02.25:892][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-09.02.25:893][911]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-09.12.26:334][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-09.12.26:336][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-09.22.26:815][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-09.22.26:816][513]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-09.32.27:239][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.19-09.32.27:239][314]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-09.42.27:748][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-09.42.27:748][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-09.46.02:967][761]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.075 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-09.52.28:283][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-09.52.28:284][916]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-10.02.28:732][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.19-10.02.28:733][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-10.12.29:211][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.19-10.12.29:213][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-10.22.29:681][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-10.22.29:683][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-10.32.30:191][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-10.32.30:192][120]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-10.42.30:691][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.19-10.42.30:692][921]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-10.46.02:971][559]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.079 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-10.52.31:231][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-10.52.31:232][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-11.02.31:681][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-11.02.31:681][523]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-11.12.32:148][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.19-11.12.32:149][324]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-11.22.32:637][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-11.22.32:638][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-11.32.33:125][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.19-11.32.33:126][926]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-11.42.33:650][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.19-11.42.33:652][727]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-11.46.02:978][356]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.086 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-11.52.34:479][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-11.52.34:479][529]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-12.00.50:331][ 18]LogHttp: Warning: 0000066560C48200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7FF623A-45B2-D267-ABF5-90A3F862EF91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=91f6b8794df8d5c4725ce4be0b9fed6f%7Cb6e6297ac3834a52a9916287fcf7c049%7Cc7cabd9b-65d7-469c-9c66-b7c64c5d3a3c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.11.19-12.00.50:333][ 18]LogHttp: Warning: 0000066560C48200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.11.19-12.00.50:333][ 18]LogHttp: Warning: 0000066560C48200: libcurl info message cache 0 (Found bundle for host: 0x6632a1600f0 [serially])
+[2023.11.19-12.00.50:333][ 18]LogHttp: Warning: 0000066560C48200: libcurl info message cache 1 (Re-using existing connection #12 with host datarouter.ol.epicgames.com)
+[2023.11.19-12.00.50:335][ 18]LogHttp: Warning: 0000066560C48200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.174.119.189) port 443 (#12))
+[2023.11.19-12.00.50:335][ 18]LogHttp: Warning: 0000066560C48200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.11.19-12.00.50:335][ 18]LogHttp: Warning: 0000066560C48200: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.11.19-12.00.50:335][ 18]LogHttp: Warning: 0000066560C48200: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.11.19-12.00.50:335][ 18]LogHttp: Warning: 0000066560C48200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.11.19-12.00.50:335][ 18]LogHttp: Warning: 0000066560C48200: libcurl info message cache 7 (Closing connection 12)
+[2023.11.19-12.00.50:339][ 18]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7FF623A-45B2-D267-ABF5-90A3F862EF91%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=91f6b8794df8d5c4725ce4be0b9fed6f%7Cb6e6297ac3834a52a9916287fcf7c049%7Cc7cabd9b-65d7-469c-9c66-b7c64c5d3a3c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.11.19-12.02.34:897][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-12.02.34:898][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-12.12.35:570][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.19-12.12.35:570][131]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-12.22.36:118][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.19-12.22.36:119][932]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-12.32.36:944][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-12.32.36:945][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-12.42.37:432][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-12.42.37:433][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-12.46.02:989][153]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.096 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-12.52.37:961][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-12.52.37:962][336]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-13.02.38:433][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-13.02.38:434][137]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-13.12.38:950][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.19-13.12.38:951][938]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-13.22.39:456][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-13.22.39:457][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-13.32.39:961][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.11.19-13.32.39:962][540]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-13.42.40:392][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-13.42.40:393][341]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-13.46.03:018][950]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.123 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-13.52.40:951][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-13.52.40:952][142]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-14.02.41:420][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-14.02.41:420][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-14.12.41:886][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-14.12.41:886][744]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-14.22.42:342][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.11.19-14.22.42:343][545]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-14.32.42:862][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-14.32.42:863][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-14.42.43:414][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-14.42.43:415][147]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-14.46.03:001][747]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.107 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-14.52.43:896][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.11.19-14.52.43:897][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-15.02.44:335][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.19-15.02.44:337][749]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
