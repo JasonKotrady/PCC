@@ -6151,3 +6151,56 @@ Script Stack (0 frames) :
 [2023.11.19-14.52.43:897][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
 [2023.11.19-15.02.44:335][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
 [2023.11.19-15.02.44:337][749]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-15.12.44:895][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.11.19-15.12.44:896][658]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.008
+[2023.11.19-15.17.21:435][ 49]LogViewport: Scene viewport resized to 699x815, mode Windowed.
+[2023.11.19-15.18.17:788][404]Cmd: TRANSACTION UNDO
+[2023.11.19-15.18.17:788][404]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.19-15.18.41:382][767]Cmd: TRANSACTION UNDO
+[2023.11.19-15.18.41:382][767]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.19-15.18.41:393][767]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Heightmap_397 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.18.41:394][767]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Heightmap_401 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.18.49:177][210]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2023.11.19-15.22.45:382][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.11.19-15.22.45:442][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Heightmap_375 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:450][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Heightmap_377 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:451][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Heightmap_397 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:454][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Heightmap_399 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:456][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Heightmap_401 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:458][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Heightmap_403 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:460][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Weightmap_148 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:462][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Weightmap_216 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:464][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Weightmap_168 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:465][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Weightmap_217 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:467][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Weightmap_164 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:470][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Weightmap_153 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:472][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Weightmap_154 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:475][ 58]LogTexture: Display: Building textures: /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.Landscape_0.Weightmap_155 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.19-15.22.45:668][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MatchGame/MatchGame_Auto9
+[2023.11.19-15.22.45:669][ 58]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/MatchGame_Auto9489E1BF14D61B62F1FC6EB89F653ED53.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/Autosaves/Game/MatchGame/MatchGame_Auto9.umap'
+[2023.11.19-15.22.45:710][ 58]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.346
+[2023.11.19-15.22.45:711][ 58]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.346
+[2023.11.19-15.32.46:048][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.19-15.32.46:048][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-15.42.58:511][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.19-15.42.58:512][696]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-15.46.03:092][251]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.197 and deleted 0 files with total size 0 MiB. Scanned 24056 files in 22898 folders with total size 6996 MiB.
+[2023.11.19-15.52.59:052][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.19-15.52.59:052][497]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-16.02.59:439][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.11.19-16.02.59:440][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-16.13.00:230][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.11.19-16.13.00:230][100]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-16.23.01:159][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.19-16.23.01:159][899]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
+[2023.11.19-16.33.01:718][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.11.19-16.33.01:718][699]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.013
+[2023.11.19-16.43.02:189][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.11.19-16.43.02:190][500]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-16.46.03:091][ 44]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.196 and deleted 0 files with total size 0 MiB. Scanned 24056 files in 22898 folders with total size 6996 MiB.
+[2023.11.19-16.53.09:299][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.11.19-16.53.09:299][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.011
+[2023.11.19-17.03.09:936][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.19-17.03.09:937][151]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.013
+[2023.11.19-17.13.10:644][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.11.19-17.13.10:644][953]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.012
