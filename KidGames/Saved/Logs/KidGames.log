@@ -1497,3 +1497,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.19-20.48.03:583][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
 [2023.11.19-20.48.03:584][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
 [2023.11.19-20.48.03:584][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.11.19-20.50.37:532][  0]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.132 and deleted 0 files with total size 0 MiB. Scanned 24386 files in 23186 folders with total size 7005 MiB.
