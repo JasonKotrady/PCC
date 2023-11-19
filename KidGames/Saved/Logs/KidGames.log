@@ -5959,3 +5959,78 @@ Script Stack (0 frames) :
 [2023.11.19-04.58.59:665][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
 [2023.11.19-05.09.00:549][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2023.11.19-05.09.00:550][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-05.19.01:012][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.19-05.19.01:013][515]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-05.29.01:470][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.19-05.29.01:471][316]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-05.39.02:010][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.19-05.39.02:011][117]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-05.46.01:919][378]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.134 and deleted 0 files with total size 0 MiB. Scanned 24035 files in 22879 folders with total size 6996 MiB.
+[2023.11.19-05.49.02:451][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.11.19-05.49.02:453][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-05.59.02:988][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.19-05.59.02:989][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-06.09.03:497][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.11.19-06.09.03:498][520]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-06.19.05:105][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.11.19-06.19.05:106][318]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.009
+[2023.11.19-06.29.05:480][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.11.19-06.29.05:481][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MatchGame/MatchGame' took 0.010
+[2023.11.19-06.30.48:605][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.11.19-06.31.37:576][595]Cmd: TRANSACTION UNDO
+[2023.11.19-06.31.37:576][595]LogEditorTransaction: Undo Group Selected
+[2023.11.19-06.32.42:424][368]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.11.19-06.32.42:424][368]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.11.19-06.32.42:425][368]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.PostProcessVolume_0
+[2023.11.19-06.32.42:429][368]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.PostProcessVolume_0
+[2023.11.19-06.32.44:234][474]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.11.19-06.32.44:234][474]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.11.19-06.32.44:235][474]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.PostProcessVolume_1
+[2023.11.19-06.32.44:236][474]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/MatchGame/MatchGame.MatchGame:PersistentLevel.PostProcessVolume_1
+[2023.11.19-06.32.51:615][911]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: ================================================
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Total job queries 1697, among them cache hits 218 (12.85%)
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Tracking 1473 distinct input hashes that result in 539 distinct outputs (36.59%)
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: RAM used: 9.44 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.15%
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Shaders Compiled: 911
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Jobs assigned 915, completed 911 (99.56%)
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Average time worker was idle: 139.06 s
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Time job spent in pending queue: average 2.81 s, longest 14.79 s
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 5.92 s
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Job life time (pending + execution): average 3.88 s, max 15.31
+[2023.11.19-06.32.52:504][964]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.22 s
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: Jobs were issued in 837 batches (only local compilation was used), average 1.09 jobs/batch
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: Average processing rate: 11.50 jobs/sec
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: Total thread time: 402.86 s
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: Total thread preprocess time: 25.14 s
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: Percentage time preprocessing: 6.24%
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: Effective parallelization: 5.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.69 sec, max 0.75 sec, min 0.62 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 0.69 sec, max 0.77 sec, min 0.63 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.69 sec, max 0.79 sec, min 0.60 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 0.65 sec, max 0.70 sec, min 0.59 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    4 times, average 0.64 sec, max 0.70 sec, min 0.57 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.92% of total time (compiled  134 times, average 0.51 sec, max 0.77 sec, min 0.31 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.14% of total time (compiled  125 times, average 0.49 sec, max 0.70 sec, min 0.31 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.75% of total time (compiled  116 times, average 0.44 sec, max 0.57 sec, min 0.30 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 10.46% of total time (compiled   68 times, average 0.62 sec, max 0.76 sec, min 0.47 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 8.67% of total time (compiled   68 times, average 0.51 sec, max 0.61 sec, min 0.36 sec)
+[2023.11.19-06.32.52:505][964]LogShaderCompilers: Display: ================================================
+[2023.11.19-06.34.38:218][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.19-06.46.03:116][103]LogDerivedDataCache: C:/Users/Shannon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.239 and deleted 0 files with total size 0 MiB. Scanned 24040 files in 22883 folders with total size 6996 MiB.
+[2023.11.19-06.48.09:403][635]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.19-06.49.45:016][346]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.19-06.52.19:450][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.19-06.52.19:457][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.19-06.52.19:550][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MatchGame/MatchGame" FILE="../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/MatchGame/MatchGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.19-06.52.19:558][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.19-06.52.19:678][440]LogSavePackage: Moving output files for package: /Game/MatchGame/MatchGame
+[2023.11.19-06.52.19:679][440]LogSavePackage: Moving '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Saved/MatchGame74BF25EC4AB433B76EFF7996E51B9D8E.tmp' to '../../../../../../Users/Shannon/Documents/GitHub/PCC/KidGames/Content/MatchGame/MatchGame.umap'
+[2023.11.19-06.52.19:707][440]LogFileHelpers: Saving map 'MatchGame' took 0.158
+[2023.11.19-06.52.19:728][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 1.94 sec)
+[2023.11.19-06.52.19:809][440]AssetCheck: New page: Asset Save: MatchGame
+[2023.11.19-06.52.19:809][440]LogContentValidation: Display: Validating /Script/Engine.World /Game/MatchGame/MatchGame.MatchGame
